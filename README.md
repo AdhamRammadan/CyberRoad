@@ -1,3 +1,5 @@
+# CyberRoad -> [aminadha](https://www.linkedin.com/in/adham-amiin-654823147/)
+
 #### LABS FOR REDTEAM & Bluteam:
 * [CTF Komodo Security](http://ctf.komodosec.com/)
 * [Attack-Defense](https://attackdefense.com)
@@ -247,8 +249,6 @@
 * [Reverse Engineering for Everyone by Kevin Thomas My Technotalent](https://lnkd.in/eUqUDdXS)      
 * [Reverse Engineering for beginners by Dennis Yurichev (available in many languages)](https://lnkd.in/eHsdurZG)      
 * [Reverse Engineering 101 by 0x00 (with exercises)](https://lnkd.in/ebtKjS-W)      
-
-
 * 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 * [Malware Analysis In 5+ Hours - Full Course - Learn Practical Malware Analysis! by HuskyHacks](https://lnkd.in/eR3_ki-6)      
 * [Malware Analysis – Mind Map by Thatintel](https://lnkd.in/evyAhNWt)      
@@ -258,12 +258,8 @@
 * [Articles 3](https://lnkd.in/gS2hVzjX)      
 * [Articles 4](https://lnkd.in/gxrsNMEW)      
 * [Articles 5](https://lnkd.in/e7zzmh4V)      
-
-
 * 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗕𝗼𝗻𝘂𝘀
 * [Malware Analysis and Reverse Engineering courses by DFIR Diva](https://lnkd.in/eCxGV2iP)      
-
-
 
 
 #### Arabic:
@@ -757,9 +753,9 @@
 * Talks about data encryption, correct configurations of the cloud, etc.
 * 𝐂𝐮𝐫𝐚𝐭𝐞𝐝 𝐥𝐢𝐬𝐭 𝐨𝐟 𝐀𝐖𝐒 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨𝐬
 * [Here](https://lnkd.in/g9fbwFBC)
-* (I highly recommend checking out as many videos as possible in this playlist, especially 
+* I highly recommend checking out as many videos as possible in this playlist, especially 
 * [Here](https://lnkd.in/g-NDnxua) 
-* (https://lnkd.in/gzJGjsjn)
+* [Here](https://lnkd.in/gzJGjsjn)
 * 𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐀𝐖𝐒 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐛𝐲 Benjamin Caudill
 * [Here](https://lnkd.in/gEWyiuvN)
 * [Complete notes can be found here](https://lnkd.in/gXRxRAmz)
@@ -780,7 +776,7 @@
 * [NoSQLmap: Automate injection attacks and exploit default configuration weaknesses in NoSQL databases and web applications](https://lnkd.in/gugC5XpJ)    
 * [Wafw00f: Identifies and fingerprints Web Application Firewall (WAF) products.](https://lnkd.in/g2MXJHEp)    
 
-# GoVanguard InfoSec Encyclopedia
+## GoVanguard InfoSec Encyclopedia
 
 This is an ongoing compilation of resources we have found helpful and tools we use.
 If you're new to InfoSec and are looking for a concentrated list of resources to get started, check out [Getting into InfoSec and Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity).
@@ -2685,4 +2681,4 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Half of this work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Most of this work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
