@@ -82,13 +82,13 @@
 
 * NIST 800 - 61 Rev 2
 * [- Computer Security Incident Handling Guide](https://lnkd.in/g7bnQF9R)
-* [SANS Incident Handler's Handbook   ](https://lnkd.in/gkw8MtKk)
-* [FEMA - Planning Considerations for Cyber Incidents [Draft] ](https://lnkd.in/g3tnhRTg)
-* [FEMA - Developing and Maintaining Emergency Operations Plans Comprehensive Preparedness Guide (CPG) 101 ](https://lnkd.in/gJvwvX7B)
-* [National Cyber Security Centre (UK) - Incident Management Guidance ](https://lnkd.in/guy64NSX)
-* [Cyber Security Agency of Singapore (CSA)   ](https://lnkd.in/gb9kAKEC)
-* [Cyber Security Coalition - Cybersecurity Incident Management Guide ](https://lnkd.in/g3_4kMbw)
-* [CREST - Cyber Security Incident Response Guide ](https://lnkd.in/gM3Ak4Nq)
+* [SANS Incident Handler's Handbook](https://lnkd.in/gkw8MtKk)
+* [FEMA - Planning Considerations for Cyber Incidents [Draft]](https://lnkd.in/g3tnhRTg)
+* [FEMA - Developing and Maintaining Emergency Operations Plans Comprehensive Preparedness Guide (CPG) 101](https://lnkd.in/gJvwvX7B)
+* [National Cyber Security Centre (UK) - Incident Management Guidance](https://lnkd.in/guy64NSX)
+* [Cyber Security Agency of Singapore (CSA)](https://lnkd.in/gb9kAKEC)
+* [Cyber Security Coalition - Cybersecurity Incident Management Guide](https://lnkd.in/g3_4kMbw)
+* [CREST - Cyber Security Incident Response Guide](https://lnkd.in/gM3Ak4Nq)
 * [NIST](https://lnkd.in/g4CnnQmG)  
 
 
@@ -182,16 +182,16 @@
 * [Platform](The Python Guru)
 * [Video](Harvard's CS50 Python )
 * [Videos](Python Tutorial for Beginners, Telusko)
-* [Googles python course - ](https://lnkd.in/eh8kXmQX)        
-* [Microsoft's Introduction to Python Course - ](https://lnkd.in/ejnfdqfv)        
-* [Introduction to Python Programming on Udemy - ](https://lnkd.in/eyFJ86S2)        
-* [Cyber insecurity 13-part free course - ](https://lnkd.in/eUPRFh3Z)        
-* [NetworkChuck YouTube Python Course - ](https://lnkd.in/enuvhMwx)        
-* [Python for Data Science, AI & Development - ](https://lnkd.in/e7MR_74b)        
-* [Learn Python 3 for Total Beginners on Udemy - ](https://lnkd.in/e-9hRdAg)        
-* [Learn Python - Full Course for Beginners by freeCodeCamp - ](https://lnkd.in/eSQTfe99)        
-* [LearnPython free course - ](https://lnkd.in/e7ukFQnr)        
-* [Learn Python with Programming with Mosh - ](https://lnkd.in/evNjQPwY)        
+* [Googles python course -](https://lnkd.in/eh8kXmQX)        
+* [Microsoft's Introduction to Python Course -](https://lnkd.in/ejnfdqfv)        
+* [Introduction to Python Programming on Udemy -](https://lnkd.in/eyFJ86S2)        
+* [Cyber insecurity 13-part free course -](https://lnkd.in/eUPRFh3Z)        
+* [NetworkChuck YouTube Python Course -](https://lnkd.in/enuvhMwx)        
+* [Python for Data Science, AI & Development -](https://lnkd.in/e7MR_74b)        
+* [Learn Python 3 for Total Beginners on Udemy -](https://lnkd.in/e-9hRdAg)        
+* [Learn Python - Full Course for Beginners by freeCodeCamp -](https://lnkd.in/eSQTfe99)        
+* [LearnPython free course -](https://lnkd.in/e7ukFQnr)        
+* [Learn Python with Programming with Mosh -](https://lnkd.in/evNjQPwY)        
 
 
 
@@ -214,36 +214,36 @@
 #### Certs Prep:
 * [Here](https://lnkd.in/dTAzdcKV)   (Security +, CEH, PenTest+, OSWP, OSCP, eJPT, eMAPT)
 * [The Security Certification Roadmap by Paul Jerimy](https://lnkd.in/eYxih4tT) 
-* [How to Analyze a Cybersecurity Certification site by Meghan Jacquot, GCTI ](https://lnkd.in/eBtDaBT4) 
+* [How to Analyze a Cybersecurity Certification site by Meghan Jacquot, GCTI](https://lnkd.in/eBtDaBT4) 
 * [Go further with Joas A Santos PenTest Certification RoadMap](https://lnkd.in/egmcyfVw)  
-* [Learning pathways and Cloud Certifications by Travis DeForge ](https://lnkd.in/eisqe3tZ)  
+* [Learning pathways and Cloud Certifications by Travis DeForge](https://lnkd.in/eisqe3tZ)  
 * Prep your certs with Marcelo Vázquez (Aka. S4vitar) for Multiple certifications
-* [HTB Machines ](https://lnkd.in/eCuEwkGN) 
-* [Study Plan ](https://lnkd.in/ex3zMYR7)  
+* [HTB Machines](https://lnkd.in/eCuEwkGN) 
+* [Study Plan](https://lnkd.in/ex3zMYR7)  
 * [Rana Khalil and Ippsec for the OSCP](https://lnkd.in/e2cvZt9K)   
 * [Here](https://ippsec.rocks/?#)  
 
 
 #### Important Certs:
-* [Certified Ethical Hacker ](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)                                                    
-* [Certified Information Systems Security Professional (CISSP) ](https://www.isc2.org/Certifications/CISSP))                                                  
-* [Certified Penetration Testing Engineer (CPTE)   ](https://www.mile2.com/penetration-testing-engineer-outline)                                                      
-* [CompTIA Security+   ](https://www.comptia.org/certifications/security))                                                    
-* [GIAC Security Essentials (GSEC) ](https://www.giac.org/certification/security-essentials-gsec))                                                    
-* [Kali Linux Certified Professional (KLCP)    ](https://home.pearsonvue.com/kali))                                                   
-* [Offensive Security Certified Expert (OSCE)  ](https://www.offensive-security.com/ctp-osce)                                                    
-* [Offensive Security Certified Professional (OSCP)    ](https://www.offensive-security.com/pwk-oscp)                                                    
-* [Offensive Security Exploitation Expert (OSEE)   ](https://www.offensive-security.com/awe-osee)                                                    
-* [Offensive Security Web Expert (OSWE)    ](https://www.offensive-security.com/awae-oswe)                                                      
-* [Offensive Security Wireless Professional (OSWP) ](https://www.offensive-security.com/wifu-oswp)                                                      
-* [Practical Network Penetration Tester (PNPT) ](https://certifications.tcm-sec.com/pnpt)                                                    
-* [HTB Certified Bug Bounty Hunter (HTB BBH)   ](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)             
-* [HTB Certified Penetration Testing Specialist (HTB CPTS) ](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)       
-* [eLearnSecurity Junior Penetration Tester (eJPT) ](https://elearnsecurity.com/product/ejpt-certification)                                                    
+* [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)                                                    
+* [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP))                                                  
+* [Certified Penetration Testing Engineer (CPTE)](https://www.mile2.com/penetration-testing-engineer-outline)                                                      
+* [CompTIA Security+](https://www.comptia.org/certifications/security))                                                    
+* [GIAC Security Essentials (GSEC)](https://www.giac.org/certification/security-essentials-gsec))                                                    
+* [Kali Linux Certified Professional (KLCP)](https://home.pearsonvue.com/kali))                                                   
+* [Offensive Security Certified Expert (OSCE)](https://www.offensive-security.com/ctp-osce)                                                    
+* [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp)                                                    
+* [Offensive Security Exploitation Expert (OSEE)](https://www.offensive-security.com/awe-osee)                                                    
+* [Offensive Security Web Expert (OSWE)](https://www.offensive-security.com/awae-oswe)                                                      
+* [Offensive Security Wireless Professional (OSWP)](https://www.offensive-security.com/wifu-oswp)                                                      
+* [Practical Network Penetration Tester (PNPT)](https://certifications.tcm-sec.com/pnpt)                                                    
+* [HTB Certified Bug Bounty Hunter (HTB BBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)             
+* [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)       
+* [eLearnSecurity Junior Penetration Tester (eJPT)](https://elearnsecurity.com/product/ejpt-certification)                                                    
 
 
 #### Reverse Engineering:
-* [Reverse Engineering for Beginners by Ophir Harpaz ](https://www.begin.re/)     
+* [Reverse Engineering for Beginners by Ophir Harpaz](https://www.begin.re/)     
 * [Reverse Engineering for Everyone by Kevin Thomas My Technotalent](https://lnkd.in/eUqUDdXS)      
 * [Reverse Engineering for beginners by Dennis Yurichev (available in many languages)](https://lnkd.in/eHsdurZG)      
 * [Reverse Engineering 101 by 0x00 (with exercises)](https://lnkd.in/ebtKjS-W)      
@@ -478,8 +478,8 @@
 * freecarrierlookup.com/          Free Carrier Lookup - Enter a phone number and we'll return the carrier name
 * [rocketreach.co](RocketReach - Your first-degree connection to any professional)
 * [sync.me](Sync Me - Find out who called)
-* [EmobileTracker - Track Mobile Owner Name, Location, and Mobile Service Provider ](www.emobiletracker.com)          
-* [Reverse Phone Lookup - Find Out The Owner Of A Phone Number ](https://lnkd.in/dGGfjV-y)            
+* [EmobileTracker - Track Mobile Owner Name, Location, and Mobile Service Provider](www.emobiletracker.com)          
+* [Reverse Phone Lookup - Find Out The Owner Of A Phone Number](https://lnkd.in/dGGfjV-y)            
 * [ThatsThem - Reverse phone lookup](https://lnkd.in/d8rvhtuF)            
 * [This Number - International Phone Directories](www.thisnumber.com)                  
 * [Usphonebook - Free Reverse Phone Number Lookup](www.usphonebook.com/)            
@@ -487,7 +487,7 @@
 * [Tellows - Who is calling? The phone number reverse search](www.tellows.com/)            
 * synapsint.com/          SynapsInt - The unified OSINT research 
 * api.c99.nl/         C99.nl - Over 57 quality API's and growing  
-* [This dude was recommended to me by someone much better than me: ](https://lnkd.in/eCH2kBRC)    
+* [This dude was recommended to me by someone much better than me:](https://lnkd.in/eCH2kBRC)    
 * [Currently using this tool myself for tracking Russian military movement in my spare time. It an awesome forensic magnifier:](https://lnkd.in/eHP_GpWm)    
 * [Another forensics tool that can help determine authenticity of an image, including scraping metadata:](https://fotoforensics.com/)  
 * Lastly, you can just use the ol’classic such as the big 3 reverse image searchers [Google, Bing, Yandex]. Each offer its own pros and cons so it’s worth trying all 3 if you're ever stuck.
@@ -600,21 +600,21 @@
 
 
 * IP & Domain search:
-* [GreyNoise ](https://www.greynoise.io/)       
-* [VirusTotal ](https://lnkd.in/gQm7bWuM)        
-* [Whois ](https://lnkd.in/g9wzPfq3)        
-* [AbuseIPDB ](https://www.abuseipdb.com/)      
-* [IpAddress ](https://lnkd.in/g6GmxGcK)        
-* [ARIN ](https://search.arin.net/)        
-* [Censys ](https://search.censys.io/)       
-* [Intelligence X ](https://intelx.io/)      
-* [Shodan ](https://www.shodan.io/)      
-* [ZoomEye ](https://lnkd.in/gFnSPmBF)        
-* [ONYPHYE ](https://www.onyphe.io/)      
-* [What is My IP ](https://lnkd.in/g3TxK5rB)        
-* [BinaryEdge ](https://lnkd.in/gzma7EG6)        
-* [URL Scan ](https://lnkd.in/gx6_kN8b)        
-* [Abuse CH ](https://lnkd.in/gcif6Ujc)        
+* [GreyNoise](https://www.greynoise.io/)       
+* [VirusTotal](https://lnkd.in/gQm7bWuM)        
+* [Whois](https://lnkd.in/g9wzPfq3)        
+* [AbuseIPDB](https://www.abuseipdb.com/)      
+* [IpAddress](https://lnkd.in/g6GmxGcK)        
+* [ARIN](https://search.arin.net/)        
+* [Censys](https://search.censys.io/)       
+* [Intelligence X](https://intelx.io/)      
+* [Shodan](https://www.shodan.io/)      
+* [ZoomEye](https://lnkd.in/gFnSPmBF)        
+* [ONYPHYE](https://www.onyphe.io/)      
+* [What is My IP](https://lnkd.in/g3TxK5rB)        
+* [BinaryEdge](https://lnkd.in/gzma7EG6)        
+* [URL Scan](https://lnkd.in/gx6_kN8b)        
+* [Abuse CH](https://lnkd.in/gcif6Ujc)        
 
 
 
@@ -643,17 +643,17 @@
 * [JPassword Recovery Tool- -Open source password recovery tool for Windows](https://lnkd.in/gtmJkMHp)        
 * [Hashcat- -Fast hash cracking utility with support for most known hashes as well as OpenCL and CUDA acceleration.](https://lnkd.in/guwsc_GQ)        
 * [John the Ripper Jumbo- -Community-enhanced, "jumbo" version of John the Ripper](https://lnkd.in/gdikGzf8)        
-* [John the Ripper- -Open-Source password security auditing and password recovery tool available for different operating systems. ](https://lnkd.in/ggq_B9_a)        
+* [John the Ripper- -Open-Source password security auditing and password recovery tool available for different operating systems.](https://lnkd.in/ggq_B9_a)        
 * [JWT Cracker- -Simple HS256 JWT token brute force cracker](https://lnkd.in/gkQy2rCV)        
 * [Mentalist- -Unique GUI based password wordlist generator compatible with CeWL and John the Ripper](https://lnkd.in/gfp8RTGh)        
 
 
 #### Pentest Tools:
-* [See Rajneesh G.’s post about some of the Practical web Pentesting tools. ](https://lnkd.in/ei7R8gsx)    
-* [You know the Nmap project? Well they have a list of the top 125 Network Security Tools ](https://sectools.org/)   
-* [Julien Maury shared a Top 10 on eSecurity Planet    ](https://lnkd.in/ezNgTvfF)     
-* [And SANS Technology Institute has a list of tools including plenty of pentest tools:  ](https://lnkd.in/eHmusQYg)    
-* [Finally arch3rPro has an amazing amount of tools listed on github:  ](https://lnkd.in/eA988c_k)    
+* [See Rajneesh G.’s post about some of the Practical web Pentesting tools.](https://lnkd.in/ei7R8gsx)    
+* [You know the Nmap project? Well they have a list of the top 125 Network Security Tools](https://sectools.org/)   
+* [Julien Maury shared a Top 10 on eSecurity Planet](https://lnkd.in/ezNgTvfF)     
+* [And SANS Technology Institute has a list of tools including plenty of pentest tools:](https://lnkd.in/eHmusQYg)    
+* [Finally arch3rPro has an amazing amount of tools listed on github:](https://lnkd.in/eA988c_k)    
 
 
 #### Search Engines:
@@ -734,9 +734,9 @@
 
 #### Cloud:
 * [Here](https://github.com/aquasecurity/cloud-security-remediation-guides)   
-* [Get familiar with Cloud Security fundamentals with Learn to cloud by Gwyneth Peña-Siguenza and Day Johnson ](https://lnkd.in/eBn8AJhp)    
+* [Get familiar with Cloud Security fundamentals with Learn to cloud by Gwyneth Peña-Siguenza and Day Johnson](https://lnkd.in/eBn8AJhp)    
 * [Hacking the cloud by Nick Frichette an encyclopedia of the techniques that offensive security professionals can use against cloud environments.](https://hackingthe.cloud/)   
-* [Cloud Security - Attacks by Joas A Santos ](https://lnkd.in/e5U-KxYj)    
+* [Cloud Security - Attacks by Joas A Santos](https://lnkd.in/e5U-KxYj)    
 * [Practice with this free lab from Pentester Academy](https://lnkd.in/e5n2CZ2f)    
 
 
@@ -2515,7 +2515,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
 * [Metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
-* [Red Team Automation ](RTA)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.
+* [Red Team Automation](RTA)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - A virtual machine for adversary emulation and threat hunting.
 
 #### All in one Incident Response Tools
@@ -2685,4 +2685,4 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Half of This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Half of this work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
