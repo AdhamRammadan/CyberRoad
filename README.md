@@ -253,11 +253,11 @@
 * [Malware Analysis In 5+ Hours - Full Course - Learn Practical Malware Analysis! by HuskyHacks](https://lnkd.in/eR3_ki-6)      
 * [Malware Analysis – Mind Map by Thatintel](https://lnkd.in/evyAhNWt)      
 * [Malware Analysis Tutorials- a Reverse Engineering Approach by Dr Xiang Fu](https://lnkd.in/eHZFTSqp)      
-* [Articles](https://lnkd.in/g-FWEH2H)      
-* [Articles](https://lnkd.in/gxAMBaFt)      
-* [Articles](https://lnkd.in/gS2hVzjX)      
-* [Articles](https://lnkd.in/gxrsNMEW)      
-* [Articles](https://lnkd.in/e7zzmh4V)      
+* [Articles 1](https://lnkd.in/g-FWEH2H)      
+* [Articles 2](https://lnkd.in/gxAMBaFt)      
+* [Articles 3](https://lnkd.in/gS2hVzjX)      
+* [Articles 4](https://lnkd.in/gxrsNMEW)      
+* [Articles 5](https://lnkd.in/e7zzmh4V)      
 
 
 * 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗕𝗼𝗻𝘂𝘀
@@ -306,9 +306,9 @@
 
 * System Administration
 * [Here](https://lnkd.in/dpQSfQpD)
-* (Slides : https://lnkd.in/d6wZvWxZ)
-* (Videos: https://lnkd.in/d_SsWR4j)
-* (Linux: https://lnkd.in/d37p2WZv)
+* [Slides](https://lnkd.in/d6wZvWxZ)
+* [Videos](https://lnkd.in/d_SsWR4j)
+* [Linux](https://lnkd.in/d37p2WZv)
 
 
 * Systems Development
@@ -352,7 +352,7 @@
 * [CISA](https://lnkd.in/e2GuNfp5)        
 * [Fortinet](https://www.fortinet.com)        
 * HackXpert:   Free labs and training
-* [TryHackMe: Hands-on exercises and labs
+* TryHackMe: Hands-on exercises and labs
 * CyberSecLabs:    High quality training labs
 * Cybrary: Videos, labs, and practice exams
 * LetsDefend:  Blue team training platform
@@ -379,7 +379,7 @@
 * Open Culture Online Courses
 
 
-* remote cybersecurity job:
+#### remote cybersecurity job:
 * Nike 
 * Bass Pro Shops
 * Devo
@@ -587,19 +587,19 @@
 
 #### Forensics:
 * Chrome->
-* [Lists every module loaded in the browser, along with any rendered processes, registered to load later, and modules that are now in use.](chrome://conflicts)
-* [Gives details on the devices such as Bluetooth and USB devices.](chrome://device-log)
-* [The extension manager, which lists every extension that has been installed and all of its parameters.](chrome://extensions-internals)
-* [Usage details by site](chrome://indexeddb-internals)
-* [Lists Origin, Sessions, Sessions with playback, Last Playback etc](chrome://media-engagement)
-* [Network log capture](chrome://net-export)
-* [Currently connected USB Devices List](chrome://usb-internals)
-* [Finally, try this out after you have collected enough information :](chrome://dino)
+* Lists every module loaded in the browser, along with any rendered processes, registered to load later, and modules that are now in use.:     chrome://conflicts
+* Gives details on the devices such as Bluetooth and USB devices.:     chrome://device-log
+* The extension manager, which lists every extension that has been installed and all of its parameters.:       chrome://extensions-internals
+* Usage details by site:       chrome://indexeddb-internals
+* Lists Origin, Sessions, Sessions with playback, Last Playback etc:       chrome://media-engagement
+* Network log capture:     chrome://net-export
+* Currently connected USB Devices List:        chrome://usb-internals
+* Finally, try this out after you have collected enough information ::     chrome://dino
 
 
 
 
-* IP & Domain search:
+#### IP & Domain search:
 * [GreyNoise](https://www.greynoise.io/)       
 * [VirusTotal](https://lnkd.in/gQm7bWuM)        
 * [Whois](https://lnkd.in/g9wzPfq3)        
@@ -619,7 +619,7 @@
 
 
 
-* ISO 27001:
+#### ISO 27001:
 * 𝗩𝗶𝗱𝗲𝗼 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴:
 * [ISO 27001 Overview](https://lnkd.in/gfJMfcwC)       
 * [How to Prepare for a Certification Audit](https://lnkd.in/gTjY42YX)       
@@ -702,7 +702,7 @@
 * Indiabix
 
 
-* CV review:
+#### CV review:
 * Zety Resume Builder
 * Resumonk
 * Resume dot com
@@ -747,12 +747,12 @@
 * [Here](https://lnkd.in/gKkj_4Ub) 
 * Hands-on CTF labs by Rhino Security Labs, Inc teaching Lambda, EC2, S3, and more
 * Many writeups on each scenario do not be afraid to use them
-* (CloudGoat video writeups can be found here: https://lnkd.in/gJMZbTKd)
+* [CloudGoat video writeups can be found here](https://lnkd.in/gJMZbTKd)
 * 𝐌𝐢𝐬𝐜
 * It's important to learn about AWS security from the defending side as well:
 * 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐭𝐲 𝐄𝐱𝐚𝐦 𝐆𝐮𝐢𝐝𝐞
 * [Here](https://lnkd.in/gADYSztW)
-* (Complete notes can be found here: https://lnkd.in/g69ZZTAB) 
+* [Complete notes can be found here](https://lnkd.in/g69ZZTAB) 
 * Goes over AWS from a security engineer point of view
 * Talks about data encryption, correct configurations of the cloud, etc.
 * 𝐂𝐮𝐫𝐚𝐭𝐞𝐝 𝐥𝐢𝐬𝐭 𝐨𝐟 𝐀𝐖𝐒 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨𝐬
@@ -762,7 +762,7 @@
 * (https://lnkd.in/gzJGjsjn)
 * 𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐀𝐖𝐒 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐛𝐲 Benjamin Caudill
 * [Here](https://lnkd.in/gEWyiuvN)
-* (Complete notes can be found here: https://lnkd.in/gXRxRAmz)
+* [Complete notes can be found here](https://lnkd.in/gXRxRAmz)
 * In-depth about EC2, S3, RDS, Lambda, etc., as well as more obscure services 
 * Talks about bypassing techniques, GuardDuty, CloudTrail, etc. 
 * Goes hand in hand with the CloudGoat scenarios
@@ -994,7 +994,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Btfm: Blue Team Field Manual by Alan White and Ben Clark](https://www.amazon.com/dp/154101636X)
 * [Bug Hunter's Diary by Tobias Klein, 2011](https://nostarch.com/bughunter)
 * [CIA Lock Picking Field Operative Training Manual](https://www.scribd.com/doc/7207/CIA-Lock-Picking-Field-Operative-Training-Manual)
-* [Car Hacker's Handbook by Craig Smith, 2016]( https://nostarch.com/carhacking)
+* [Car Hacker's Handbook by Craig Smith, 2016](https://nostarch.com/carhacking)
 * [CompTIA Security+ SY0-501 Certification Study Guide](https://www.comptia.org/training/books/security-sy0-501-study-guide)
 * [Complete Guide to Shodan](https://leanpub.com/shodan)
 * [Dfir intro](https://sroberts.medium.com/introduction-to-dfir-d35d5de4c180)
