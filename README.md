@@ -141,7 +141,7 @@
 * Schneier on Security:    Cybersecurity news and opinions
 * Zero Day:    Stories about hackers, spies and cybercrime
 * Blockchain Threat Intelligence: Tools, events, threats
-* [We Live Security](Award-winning news, views and insights)
+* [We Live Security: Award-winning news, views and insights
 * Naked Security:  How to protect yourself from attacks etc
 * AdvisoryWeek:    Security advisory roundups by major vendors
 * CyberSecNewsWeekly:  Collection of news, articles and tools
@@ -208,7 +208,7 @@
 * [Network Defense Essentials (NDE)](https://lnkd.in/gU8V32sK)   
 * [Introduction to Dark Web, Anonymity, and Cryptocurrency](https://lnkd.in/gmnCSQsV)   
 * [Certified in Cybersecurity℠ - CC](https://lnkd.in/gQiYJdTv)   
-* [Here](https://lnkd.in/gjVduQen)   20+ Free AWS Certs Related to Cybersecurity
+* [AWS](https://lnkd.in/gjVduQen)   20+ Free AWS Certs Related to Cybersecurity
 
 
 #### Certs Prep:
@@ -226,11 +226,11 @@
 
 #### Important Certs:
 * [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)                                                    
-* [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP))                                                  
+* [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)                                                  
 * [Certified Penetration Testing Engineer (CPTE)](https://www.mile2.com/penetration-testing-engineer-outline)                                                      
-* [CompTIA Security+](https://www.comptia.org/certifications/security))                                                    
-* [GIAC Security Essentials (GSEC)](https://www.giac.org/certification/security-essentials-gsec))                                                    
-* [Kali Linux Certified Professional (KLCP)](https://home.pearsonvue.com/kali))                                                   
+* [CompTIA Security+](https://www.comptia.org/certifications/security)                                                    
+* [GIAC Security Essentials (GSEC)](https://www.giac.org/certification/security-essentials-gsec)                                                    
+* [Kali Linux Certified Professional (KLCP)](https://home.pearsonvue.com/kali)                                                   
 * [Offensive Security Certified Expert (OSCE)](https://www.offensive-security.com/ctp-osce)                                                    
 * [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp)                                                    
 * [Offensive Security Exploitation Expert (OSEE)](https://www.offensive-security.com/awe-osee)                                                    
@@ -352,7 +352,7 @@
 * [CISA](https://lnkd.in/e2GuNfp5)        
 * [Fortinet](https://www.fortinet.com)        
 * HackXpert:   Free labs and training
-* [TryHackMe](Hands-on exercises and labs)
+* [TryHackMe: Hands-on exercises and labs
 * CyberSecLabs:    High quality training labs
 * Cybrary: Videos, labs, and practice exams
 * LetsDefend:  Blue team training platform
@@ -1079,7 +1079,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * Black Hat United States
 * BruCON
 * CCC
-* CISO Executive Summit Series](Invite-only)
+* CISO Executive Summit Series: Invite-only
 * CSO50 Conference
 * CanSecWest
 * CarolinaCon
