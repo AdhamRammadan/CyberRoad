@@ -62,10 +62,10 @@
 * [Webgoat](https://lnkd.in/gjsgegYw)
 * [WeChall](http://www.wechall.net)
 * [Zenk-Security](https://lnkd.in/g_y_p5ha)
-* [LetsDefend- https://letsdefend.io/)
-* [Other Labs] (https://picoctf.org)
-* [Other Labs] (https://0x00sec.org/t/)
-* [Other Labs] (https://metactf.com)
+* [LetsDefend](https://letsdefend.io/)
+* [Other Labs](https://picoctf.org)
+* [Other Labs](https://0x00sec.org/t/)
+* [Other Labs](https://metactf.com)
 * [Other Labs](https://lnkd.in/gCEsVjdn)
 * [Other Labs](https://lnkd.in/gG-7Zk92)
 * [Other Labs](https://lnkd.in/gfbXWcnN)
@@ -351,12 +351,12 @@
 * [Privilege Escalation - Linux](https://lnkd.in/djAAJjrn)
 * [TCPDump](https://lnkd.in/dyttc33m)
 * [Buffer Overflows](https://lnkd.in/dPc8zMRD)
-* [Buffer Overflows]https://lnkd.in/dmC--npa
+* [Buffer Overflows](https://lnkd.in/dmC--npa)
 * [Enumeration](https://lnkd.in/d7hkpKYa)
 * [Enumeration](https://lnkd.in/dMjnGeKu)
 * [Enumeration](https://lnkd.in/dh9B4aSS)
 * [Reverse and Bind Shell tutorials](https://lnkd.in/dtC5zGWX)
-* [Text Editor Cheat Sheets](https://vim.rtorr.com/ - Vim)
+* [Text Editor Cheat Sheets](https://vim.rtorr.com/)
 
 #### Important Certs:
 * [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)                                                    
@@ -2715,7 +2715,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Cuckoo Sandbox](https://cuckoosandbox.org/) - Online malware scanner.
 * [de4dot](https://github.com/de4dot/de4dot) - .NET deobfuscator and unpacker.
 * [dnSpy](https://github.com/dnSpy/dnSpy) - Tool to reverse engineer .NET assemblies.
-* [Dovehawk] (https://github.com/tylabs/dovehawk) - Dovehawk is a Zeek module that automatically imports MISP indicators and reports Sightings
+* [Dovehawk](https://github.com/tylabs/dovehawk) - Dovehawk is a Zeek module that automatically imports MISP indicators and reports Sightings
 * [DRAKVUF](https://github.com/tklengyel/drakvuf) - Virtualization based agentless black-box binary analysis system.
 * [Evan's Debugger](http://codef00.com/projects#debugger) - OllyDbg-like debugger for GNU/Linux.
 * [FireEye Labs Obfuscated String Solver (FLOSS)](https://github.com/fireeye/flare-floss) - Malware deobfuscator.
