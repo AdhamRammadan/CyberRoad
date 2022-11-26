@@ -62,25 +62,25 @@
 
 
 #### Bug Bounty Preperation:
-* [Prep](https://lnkd.in/gNVbdvsH)
-* [Prep](https://lnkd.in/g-sqridQ)
-* [Prep](https://lnkd.in/gDkRwJfE)
-* [Prep](https://lnkd.in/gJukYSvD)
-* [Prep](https://lnkd.in/gaHDGp_S)
-* [Prep](https://lnkd.in/gDJMZfFW)
-* [Prep](https://lnkd.in/g6Gu4bW2)
-* [Prep](https://lnkd.in/gUQrxSpS)
-* [Prep](https://lnkd.in/gjusRF_v)
-* [Prep](https://lnkd.in/gDJW_c_8)
-* [Prep](https://lnkd.in/gjdPHTYP)
-* [Prep](https://lnkd.in/gmQPDw-e)
-* [Prep](https://lnkd.in/gDJ9VvR9)
-* [Prep](https://lnkd.in/gtdPFmi5)
-* [Prep](https://lnkd.in/gECMFYGK)
-* [Prep](https://lnkd.in/gJVHyway)
+* [Prep 1](https://lnkd.in/gNVbdvsH)
+* [Prep 2](https://lnkd.in/g-sqridQ)
+* [Prep 3](https://lnkd.in/gDkRwJfE)
+* [Prep 4](https://lnkd.in/gJukYSvD)
+* [Prep 5](https://lnkd.in/gaHDGp_S)
+* [Prep 6](https://lnkd.in/gDJMZfFW)
+* [Prep 7](https://lnkd.in/g6Gu4bW2)
+* [Prep 8](https://lnkd.in/gUQrxSpS)
+* [Prep 9](https://lnkd.in/gjusRF_v)
+* [Prep 10](https://lnkd.in/gDJW_c_8)
+* [Prep 11](https://lnkd.in/gjdPHTYP)
+* [Prep 12](https://lnkd.in/gmQPDw-e)
+* [Prep 13](https://lnkd.in/gDJ9VvR9)
+* [Prep 14](https://lnkd.in/gtdPFmi5)
+* [Prep 15](https://lnkd.in/gECMFYGK)
+* [Prep 16](https://lnkd.in/gJVHyway)
 
 
-* NIST 800 - 61 Rev 2
+#### NIST 800 - 61 Rev 2
 * [- Computer Security Incident Handling Guide](https://lnkd.in/g7bnQF9R)
 * [SANS Incident Handler's Handbook](https://lnkd.in/gkw8MtKk)
 * [FEMA - Planning Considerations for Cyber Incidents [Draft]](https://lnkd.in/g3tnhRTg)
@@ -93,11 +93,11 @@
 
 
 #### Code Reviews:
-* [Resource](https://lnkd.in/dy2U6-7J)
-* [Resource](https://lnkd.in/dXSfnZ5D)
-* [Resource](https://lnkd.in/dyxwJ_SG)
-* [Resource](https://lnkd.in/dneAdfBs) 
-* [Resource](https://lnkd.in/dqKUsJ7Z)
+* [Resource 1](https://lnkd.in/dy2U6-7J)
+* [Resource 2](https://lnkd.in/dXSfnZ5D)
+* [Resource 3](https://lnkd.in/dyxwJ_SG)
+* [Resource 4](https://lnkd.in/dneAdfBs) 
+* [Resource 5](https://lnkd.in/dqKUsJ7Z)
 
 
 
@@ -130,58 +130,58 @@
 * [GreyNoise](https://www.greynoise.io/)       
 * [Threat Feeds](https://threatfeeds.io/)     
 * [Mandiant TI](https://lnkd.in/edTsrmvY)        
-* [This Week in 4n6](DFIR updates)
-* [The Hacker News](Cybersecurity news)
-* [Risky Biz](Analysis of big cyber stories)
-* [AWS Security Digest](AWS security updates)
-* [RTCSec](News around VOIP and WebRTC security)
-* [Graham Cluley](Cybersecurity news and opinions)
-* [Hive Five Newsletter](Curated cybersecurity news)
-* [SecPro](Analysis of threats, attacks and tutorials)
-* [Schneier on Security](Cybersecurity news and opinions)
-* [Zero Day](Stories about hackers, spies and cybercrime)
-* [Blockchain Threat Intelligence](Tools, events, threats)
+* This Week in 4n6:    DFIR updates
+* The Hacker News: Cybersecurity news
+* Risky Biz:   Analysis of big cyber stories
+* AWS Security Digest: AWS security updates
+* RTCSec:  News around VOIP and WebRTC security
+* Graham Cluley:   Cybersecurity news and opinions
+* Hive Five Newsletter:    Curated cybersecurity news
+* SecPro:  Analysis of threats, attacks and tutorials
+* Schneier on Security:    Cybersecurity news and opinions
+* Zero Day:    Stories about hackers, spies and cybercrime
+* Blockchain Threat Intelligence: Tools, events, threats
 * [We Live Security](Award-winning news, views and insights)
-* [Naked Security](How to protect yourself from attacks etc)
-* [AdvisoryWeek](Security advisory roundups by major vendors)
-* [CyberSecNewsWeekly](Collection of news, articles and tools)
-* [TripWire’s State of Security](Corporate cybersecurity news)
-* [API Security Newsletter](API security news and vulnerabilities)
-* [Threatpost](Exploits, vulnerabilities, malware and cybersecurity)
-* [Unsupervised Learning Community](Cybersecurity stories)
-* [Shift Security Left](Application security and incidents)
-* [tl;dr sec Newsletter](Tools, blog posts and conference talks)
-* [CSO Online](News and research on security and risk management)
-* [Krebs On Security](Cybersecurity journalism that's interesting)
-* [Gov Info Security](Governmental cybersecurity news)
+* Naked Security:  How to protect yourself from attacks etc
+* AdvisoryWeek:    Security advisory roundups by major vendors
+* CyberSecNewsWeekly:  Collection of news, articles and tools
+* TripWire’s State of Security:    Corporate cybersecurity news
+* API Security Newsletter: API security news and vulnerabilities
+* Threatpost: Exploits, vulnerabilities, malware and cybersecurity
+* Unsupervised Learning Community: Cybersecurity stories
+* Shift Security Left: Application security and incidents
+* tl;dr sec Newsletter: Tools, blog posts and conference talks
+* CSO Online:  News and research on security and risk management
+* Krebs On Security:   Cybersecurity journalism that's interesting
+* Gov Info Security:   Governmental cybersecurity news
 
 
 #### Python:
-* [Course](Learn Python 3 From Scratch )
-* [Ebook](A Byte of Python)
-* [Ebook](Automate the Boring Stuff with Python)
-* [Ebook](Beyond the Basic Stuff with Python)
-* [Ebook](Cracking Codes With Python)
-* [Ebook](Dive Into Python 3)
-* [Ebook](Full Stack Python)
-* [Ebook](Learn Python, Break Python)
-* [Ebook](The Big Book of Small Python Projects)
-* [Ebook](The Coder's Apprentice)
-* [Ebook](Think Python)
-* [Ebook](Think Python 2e)
-* [Platform](Beginner's Guide to Python, Official Wiki)
-* [Platform](freeCodeCamp)
-* [Platform](Google's Python Class)
-* [Platform](Microsoft's Introduction to Python Course)
-* [Platform](Practice Python)
-* [Platform](Python for Everybody Specialization, Coursera)
-* [Platform](Python Like You Mean It)
-* [Platform](Python Principles)
-* [Platform](Python Tutorial For Beginners, Edureka)
-* [Platform](Real Python)
-* [Platform](The Python Guru)
-* [Video](Harvard's CS50 Python )
-* [Videos](Python Tutorial for Beginners, Telusko)
+* Course:  Learn Python 3 From Scratch 
+* Ebook:   A Byte of Python
+* Ebook:   Automate the Boring Stuff with Python
+* Ebook:   Beyond the Basic Stuff with Python
+* Ebook:   Cracking Codes With Python
+* Ebook:   Dive Into Python 3
+* Ebook:   Full Stack Python
+* Ebook:   Learn Python, Break Python
+* Ebook:   The Big Book of Small Python Projects
+* Ebook:   The Coder's Apprentice
+* Ebook:   Think Python
+* Ebook:   Think Python 2e
+* Platform: Beginner's Guide to Python, Official Wiki
+* Platform: freeCodeCamp
+* Platform: Google's Python Class
+* Platform: Microsoft's Introduction to Python Course
+* Platform:    Practice Python
+* Platform:    Python for Everybody Specialization, Coursera
+* Platform:    Python Like You Mean It
+* Platform:    Python Principles
+* Platform:    Python Tutorial For Beginners, Edureka
+* Platform:    Real Python
+* Platform:    The Python Guru
+* Video: Harvard's CS50 Python 
+* Videos:  Python Tutorial for Beginners, Telusko
 * [Googles python course -](https://lnkd.in/eh8kXmQX)        
 * [Microsoft's Introduction to Python Course -](https://lnkd.in/ejnfdqfv)        
 * [Introduction to Python Programming on Udemy -](https://lnkd.in/eyFJ86S2)        
@@ -351,23 +351,23 @@
 * [NICCS Education and Training Catalog](https://lnkd.in/eH9zxzpr)        
 * [CISA](https://lnkd.in/e2GuNfp5)        
 * [Fortinet](https://www.fortinet.com)        
-* [HackXpert](Free labs and training)
+* HackXpert:   Free labs and training
 * [TryHackMe](Hands-on exercises and labs)
-* [CyberSecLabs](High quality training labs)
-* [Cybrary](Videos, labs, and practice exams)
-* [LetsDefend](Blue team training platform)
-* [Root Me](Over 400 cybersecurity challenges)
-* [RangeForce](Interactive and hands-on platform)
-* [Certified Secure](Loads of different challenges)
-* [Vuln Machines](Real world scenarios to practice)
-* [Try2Hack](Play a game based on the real attacks)
-* [TCM Security](Entry level courses for cybersecurity)
-* [EchoCTF](Train your offensive and defensive skills)
-* [Hack The Box](Online cybersecurity training platform)
-* [Vuln Hub](Material for practical hands-on experience)
-* [OverTheWire](Learn security concepts through challenges)
-* [PentesterLab](Learn web-application penetration testing)
-* [PortSwigger Web Security Academy](Extensive learning material)
+* CyberSecLabs:    High quality training labs
+* Cybrary: Videos, labs, and practice exams
+* LetsDefend:  Blue team training platform
+* Root Me: Over 400 cybersecurity challenges
+* RangeForce:  Interactive and hands-on platform
+* Certified Secure:    Loads of different challenges
+* Vuln Machines:   Real world scenarios to practice
+* Try2Hack:    Play a game based on the real attacks
+* TCM Security:    Entry level courses for cybersecurity
+* EchoCTF: Train your offensive and defensive skills
+* Hack The Box:    Online cybersecurity training platform
+* Vuln Hub:    Material for practical hands-on experience
+* OverTheWire: Learn security concepts through challenges
+* PentesterLab:    Learn web-application penetration testing
+* PortSwigger Web Security Academy:    Extensive learning material
 * Coursera
 * edX
 * Khan Academy
@@ -435,15 +435,15 @@
 * [JS Remotely](‏https://jsremotely.com/)        
 * [LinkedIn](‏https://lnkd.in/dmPG6b62)       
 * [Design Remotely](‏https://designremotely.co/)     
-* [‏Turing.com](Turing)
-* [‏RemoteMore.com](Remote More)
+* ‏Turing.com: Turing
+* ‏RemoteMore.com: Remote More
 * [Remote Platz](‏https://remoteplatz.com)        
-* [‏Toptal.com](Toptal)
-* [‏Netguru.com](Netguru)
+* ‏Toptal.com: Toptal
+* ‏Netguru.com: Netguru
 * [EPAME Anywhere](‏https://lnkd.in/dsrsnhm8)       
-* [‏Andela.com](Andela)
-* [‏vanhack.com](Vanhack)
-* [‏talent.io](Talent IO)
+* ‏Andela.com: Andela
+* ‏vanhack.com: Vanhack
+* ‏talent.io:  Talent IO
 * [Arc](https://arc.dev)     
 * Linkedin
 * Indeed
@@ -476,8 +476,8 @@
 * [National Cellular Directory - Begin your comprehensive people search now](https://lnkd.in/dfUVjKWC)            
 * [Phone Validator - Is it a cell phone, a landline, or a fake one?](www.phonevalidator.com/)         
 * freecarrierlookup.com/          Free Carrier Lookup - Enter a phone number and we'll return the carrier name
-* [rocketreach.co](RocketReach - Your first-degree connection to any professional)
-* [sync.me](Sync Me - Find out who called)
+* rocketreach.co:  RocketReach - Your first-degree connection to any professional
+* sync.me: Sync Me - Find out who called
 * [EmobileTracker - Track Mobile Owner Name, Location, and Mobile Service Provider](www.emobiletracker.com)          
 * [Reverse Phone Lookup - Find Out The Owner Of A Phone Number](https://lnkd.in/dGGfjV-y)            
 * [ThatsThem - Reverse phone lookup](https://lnkd.in/d8rvhtuF)            
@@ -494,29 +494,29 @@
 
 
 #### API:
-* [Blog](APIsec OWASP API Security Top 10: A Deep Dive)
-* [Blog](Bend Theory, Exploiting Unintended Functionality in API's)
-* [Blog](Bright Security, Complete Guide to Threats, Methods & Tools)
-* [Blog](Curity, The API Security Maturity Model.)
-* [Blog](Detectify, How To Hack API's in 2021)
-* [Blog](Expedited Security, API Security MegaGuide)
-* [Blog](HackXpert, Let's build an API to hack)
-* [Blog](Kontra Application Security, Owasp Top 10 for API.)
-* [Blog](Ping Identity, API Security, The Complete Guide 2022.)
-* [Blog](Secure Delivery, OWASP API Top 10 CTF Walk-through)
-* [Blog](SmartBear, How To Hack An API And Get Away With I)
-* [Blog](Wallarm, How To Hack API In 60 Minutes)
-* [Podcast](We Hack Purple, API Security Best Practices)
-* [Video](Bugcrowd, API Security 101 by Sadako)
-* [Video](Bugcrowd, Bad API, hAPI Hackers)
-* [Video](David Bombal, Free API Hacking Course)
-* [Video](Grant Ongers, API Security Testing Workshop)
-* [Video](Katie Paxton-Fear, API Hacking)
-* [Video](OWASP API Security Top 10 Webinar)
-* [Video](SANS Offensive Operations, Analyzing OWASP API Security)
-* [Video](Traceable AI, API Hacking 101)
-* [Videos](The XSS Rat, API Testing And Securing Guide)
-* [Website](APIsecurity IO, API Security Articles)
+* Blog:    APIsec OWASP API Security Top 10: A Deep Dive
+* Blog:    Bend Theory, Exploiting Unintended Functionality in API's
+* Blog:    Bright Security, Complete Guide to Threats, Methods & Tools
+* Blog: Curity, The API Security Maturity Model.
+* Blog: Detectify, How To Hack API's in 2021
+* Blog:    Expedited Security, API Security MegaGuide
+* Blog: HackXpert, Let's build an API to hack
+* Blog:    Kontra Application Security, Owasp Top 10 for API.
+* Blog:    Ping Identity, API Security, The Complete Guide 2022.
+* Blog:    Secure Delivery, OWASP API Top 10 CTF Walk-through
+* Blog: SmartBear, How To Hack An API And Get Away With I
+* Blog: Wallarm, How To Hack API In 60 Minutes
+* Podcast: We Hack Purple, API Security Best Practices
+* Video: Bugcrowd, API Security 101 by Sadako
+* Video: Bugcrowd, Bad API, hAPI Hackers
+* Video:   David Bombal, Free API Hacking Course
+* Video:   Grant Ongers, API Security Testing Workshop
+* Video:   Katie Paxton-Fear, API Hacking
+* Video:   OWASP API Security Top 10 Webinar
+* Video:   SANS Offensive Operations, Analyzing OWASP API Security
+* Video:   Traceable AI, API Hacking 101
+* Videos:  The XSS Rat, API Testing And Securing Guide
+* Website: APIsecurity IO, API Security Articles
 
 
 #### PowerShell:
@@ -657,36 +657,36 @@
 
 
 #### Search Engines:
-* [Dehashed](View leaked credentials)
-* [SecurityTrails](Extensive DNS data)
-* [DorkSearch](Really fast Google dorking)
-* [ExploitDB](Archive of various exploits)
-* [ZoomEye](Gather information about targets)
-* [Pulsedive](Search for threat intelligence)
-* [GrayHatWarefare](Search public S3 buckets)
-* [PolySwarm](Scan files and URLs for threats)
-* [Fofa](Search for various threat intelligence)
-* [LeakIX](Search publicly indexed information)
-* [DNSDumpster](Search for DNS records quickly)
-* [FullHunt](Search and discovery attack surfaces)
-* [AlienVault](Extensive threat intelligence feed)
-* [ONYPHE](Collects cyber-threat intelligence data)
-* [Grep App](Search across a half million git repos)
-* [URL Scan](Free service to scan and analyse websites)
-* [Vulners](Search vulnerabilities in a large database)
-* [WayBackMachine](View content from deleted websites)
-* [Shodan](Search for devices connected to the internet)
-* [Netlas](Search and monitor internet connected assets)
-* [CRT sh](Search for certs that have been logged by CT)
-* [Wigle](Database of wireless networks, with statistics)
-* [PublicWWW](Marketing and affiliate marketing research)
-* [Binary Edge](Scans the internet for threat intelligence)
-* [GreyNoise](Search for devices connected to the internet)
-* [Hunter](Search for email addresses belonging to a website)
-* [Censys](Assessing attack surface for internet connected devices)
-* [IntelligenceX](Search Tor, I2P, data leaks, domains, and emails)
-* [Packet Storm Security](Browse latest vulnerabilities and exploits)
-* [SearchCode](Search 75 billion lines of code from 40 million projects)
+* Dehashed:    View leaked credentials
+* SecurityTrails:  Extensive DNS data
+* DorkSearch:  Really fast Google dorking
+* ExploitDB:   Archive of various exploits
+* ZoomEye: Gather information about targets
+* Pulsedive:   Search for threat intelligence
+* GrayHatWarefare: Search public S3 buckets
+* PolySwarm:   Scan files and URLs for threats
+* Fofa:    Search for various threat intelligence
+* LeakIX:  Search publicly indexed information
+* DNSDumpster: Search for DNS records quickly
+* FullHunt:    Search and discovery attack surfaces
+* AlienVault:  Extensive threat intelligence feed
+* ONYPHE:  Collects cyber-threat intelligence data
+* Grep App:    Search across a half million git repos
+* URL Scan:    Free service to scan and analyse websites
+* Vulners: Search vulnerabilities in a large database
+* WayBackMachine:  View content from deleted websites
+* Shodan:  Search for devices connected to the internet
+* Netlas:  Search and monitor internet connected assets
+* CRT sh:  Search for certs that have been logged by CT
+* Wigle:   Database of wireless networks, with statistics
+* PublicWWW:   Marketing and affiliate marketing research
+* Binary Edge: Scans the internet for threat intelligence
+* GreyNoise:   Search for devices connected to the internet
+* Hunter:  Search for email addresses belonging to a website
+* Censys:  Assessing attack surface for internet connected devices
+* IntelligenceX:   Search Tor, I2P, data leaks, domains, and emails
+* Packet Storm Security:   Browse latest vulnerabilities and exploits
+* SearchCode:  Search 75 billion lines of code from 40 million projects
 
 
 #### Interview Prep:
@@ -936,7 +936,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * CEH Certified Ethical Hacker All-in-One Exam Guide
 * CISSP All-in-One Exam Guide
 * CISSP: Certified Information Systems Security Professional Study Guide
-* CISSP](ISC)2 Certified Information Systems Security Professional Official Study Guide
+* CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide
 * Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon
 * Cryptography Engineering: Design Principles and Practical Applications
 * Cyber War: The Next Threat to National Security and What to Do About It
@@ -1004,7 +1004,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * [Ghost in the Wires by Kevin D. Mitnick & William L. Simon, 2011](https://www.hachettebookgroup.com/titles/kevin-mitnick/ghost-in-the-wires/9780316134477/)
 * [Gray Hat Hacking The Ethical Hacker's Handbook by Daniel Regalado et al., 2015](https://www.amazon.com/dp/0071832386)
 * [Hacking the Xbox by Andrew Huang, 2003](https://nostarch.com/xbox)
-* [Holistic Info-Sec for Web Developers](bundle)](https://leanpub.com/b/holisticinfosecforwebdevelopers)
+* [Holistic Info-Sec for Web Developers(bundle)](https://leanpub.com/b/holisticinfosecforwebdevelopers)
 * [Kali Linux Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
 * [Keys to the Kingdom by Deviant Ollam, 2012](https://www.elsevier.com/books/keys-to-the-kingdom/ollam/978-1-59749-983-5)
 * [Lock Picking: Detail Overkill by Solomon](https://www.dropbox.com/s/y39ix9u9qpqffct/Lockpicking%20Detail%20Overkill.pdf?dl=0)
@@ -1069,9 +1069,9 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 * 44CON London
 * 44Con
 * AFCEA Defensive Cyber Operations Symposium
-* AppSec United States](OWASP National Conference)
+*AppSec United States: OWASP National Conference
 * AppSecUSA
-* Atlantic Security Conference](AtlSecCon)
+* Atlantic Security Conference: AtlSecCon
 * BSides
 * BSides Event Series
 * BalCCon
@@ -2508,14 +2508,14 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 #### Adversary Emulation
 
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) - A Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
-* [Atomic Red Team](ART)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the Mitre ATT&CK Framework.
+* [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the Mitre ATT&CK Framework.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
 * [Blue Team Training Toolkit](BT3)](https://www.bt3.no/) - Software for defensive security training, which will bring your network analysis training sessions, incident response drills and red team engagements to a new level. 
 * [Caldera](https://github.com/mitre/caldera) - an automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge](ATT&CK™) project.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
 * [Metta](https://github.com/uber-common/metta) - An information security preparedness tool to do adversarial simulation.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
-* [Red Team Automation](RTA)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.
+* [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - A virtual machine for adversary emulation and threat hunting.
 
 #### All in one Incident Response Tools
