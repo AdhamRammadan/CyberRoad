@@ -1,20 +1,25 @@
 # CyberRoad -> [aminadha](https://www.linkedin.com/in/adham-amiin-654823147/)
 
 #### LABS FOR REDTEAM & Bluteam:
-* [CTF Komodo Security](http://ctf.komodosec.com/)
+* [Alert to win](https://alf.nu/alert1)
 * [Attack-Defense](https://attackdefense.com)
+* [Bancocn](https://bancocn.com)
 * [BTLO:](https://lnkd.in/daGZxg_E)
 * [Capture The Talent Academy](https://lnkd.in/dVdJ3q3d)
+* [Certified Secure](https://lnkd.in/gBKK-i-s)
 * [CMD Challenge](https://cmdchallenge.com)
 * [CryptoHack](https://cryptohack.org/)
 * [CSI Linux](https://lnkd.in/dYmuvdSy)
 * [CTF Komodo Security](https://ctf.komodosec.com)
+* [Ctftime](https://ctftime.org/)
 * [Cyberdefenders](https://lnkd.in/dVcmjEw8)
+* [CyberSecLabs](https://lnkd.in/gmyzMXju)
 * [Cybrary:](https://www.cybrary.it/)
 * [DFIR Diva](https://dfirdiva.com/)
 * [EchoCTF:](https://echoctf.red/)
-* [Exploitation Education](https://exploit.education)
+* [Explotation Education](https://exploit.education)
 * [Google CTF](https://lnkd.in/e46drbz8)
+* [Hack The Box](https://lnkd.in/ggfAMdQ8)
 * [Hackaflag BR](https://hackaflag.com.br/)
 * [Hacker Security](https://lnkd.in/ex7R-C-e)
 * [Hacker101](https://ctf.hacker101.com)
@@ -22,35 +27,45 @@
 * [Hacksplaining](https://lnkd.in/eAB5CSTA)
 * [HackTheBox](https://www.hackthebox.com)
 * [Hackthis](https://www.hackthis.co.uk)
+* [HackXpert](https://hackxpert.com/)
 * [HSTRIKE](https://hstrike.com)
 * [ImmersiveLabs](https://immersivelabs.com)
 * [INE:](https://lnkd.in/dmMcBd6H)
-* [LetsDefen](https://letsdefend.io/)
+* [LetsDefend](https://letsdefend.io/)
 * [Microsoft Learn](https://lnkd.in/dJi4Cr5p)
 * [Mossé Cyber Security Institute-](https://lnkd.in/djcnspnm)
 * [NewbieContest](https://lnkd.in/ewBk6fU5)
-* [OverTheWire:](https://lnkd.in/d4NSxUJG)
+* [OSBOXES](http://www.osboxes.org/)
+* [OverTheWire](http://overthewire.org)
 * [Penetration Testing Practice Labs](https://lnkd.in/e6wVANYd)
 * [PentestIT LAB](https://lab.pentestit.ru)
 * [Pentestlab](https://pentesterlab.com)
 * [PicoCTF](https://picoctf.com)
-* [PortSwigger Web Security Academy-](https://lnkd.in/dQEVqqQu)
-* [Practical Pentest Labs](https://lnkd.in/esq9Yuv5)
-* [PWNABLE](https://lnkd.in/eMEwBJzn)
+* [PortSwigger Web Security Academy](https://lnkd.in/gAPq2ezr)
+* [powershell specific](https://lnkd.in/dUkDrCtm)
+* [Practical Pentest Labs](https://lnkd.in/gUSqv6xS)
+* [Pwn college](https://dojo.pwn.college/)
+* [PWNABLE](https://lnkd.in/gNcyqG64)
 * [RangeForce:](https://lnkd.in/dzKWdZad)
 * [Root in Jail](http://rootinjail.com)
 * [Root-Me](https://www.root-me.org)
 * [SANS Challenger](https://lnkd.in/e5TAMawK)
-* [SmashTheStack](https://lnkd.in/eVn9rP9p)
+* [SmashTheStack](https://lnkd.in/gMFNTURc)
 * [Splunk Training-](https://lnkd.in/dDaT4w8T)
-* [TCM Security-](https://lnkd.in/dpZyUYwk)
+* [TCM Security](https://lnkd.in/gbQinqvf)
 * [The Cryptopals Crypto Challenges](https://cryptopals.com)
 * [TraceLabs:](https://www.tracelabs.org/)
 * [Try Hack Me](https://tryhackme.com)
 * [Vulnhub](https://www.vulnhub.com)
+* [Vulnmachines https://vulnmachines.com/
 * [W3Challs](https://w3challs.com)
+* [Webgoat](https://lnkd.in/gjsgegYw)
 * [WeChall](http://www.wechall.net)
-* [Zenk-Security](https://lnkd.in/)
+* [Zenk-Security](https://lnkd.in/g_y_p5ha)
+* [LetsDefend- https://letsdefend.io/)
+* [Other Labs] (https://picoctf.org)
+* [Other Labs] (https://0x00sec.org/t/)
+* [Other Labs] (https://metactf.com)
 * [Other Labs](https://lnkd.in/gCEsVjdn)
 * [Other Labs](https://lnkd.in/gG-7Zk92)
 * [Other Labs](https://lnkd.in/gfbXWcnN)
@@ -101,61 +116,135 @@
 * [Resource 4](https://lnkd.in/dneAdfBs) 
 * [Resource 5](https://lnkd.in/dqKUsJ7Z)
 
+#### Mobile pentesting:
+* [Android Bug Bounty Hunting: Hunt Like a Rat by Wesley Thijs](https://lnkd.in/ejwiiUZg)
+* [Set up your lab, learn about the methodology and get more resources on my Pentips](https://lnkd.in/ePW2rMNp)
+* [Mobile App Penetration Testing Cheat Sheet by tanprathan](https://lnkd.in/eDehivgn)
+* [The Mobile Penetration Tester Roadmap by rezaduty:](https://lnkd.in/e6vCkBiM)
+* [Want to get certified? eLearnSecurity has a dedicated certification the eMAPT](https://lnkd.in/eNHkBa3x)
+* [Check out Joas A Santos’ notes on this: Don’t forget the standards. Read OWASP® Foundation MASVS and OWASP MASTG here](https://lnkd.in/eBVqURgd)
 
 
 
 #### News:
+* [AlienVault TI Feed](https://lnkd.in/ezyrP2Ff)        
+* [All InfoSec News](https://bit.ly/3CEZcuf)
+* [BleepingComputer](https://lnkd.in/eAQKdrrA)
+* [BleepingComputer](https://lnkd.in/eAQKdrrA)        
+* [CISA Known Exploited Vulnerabilities](https://lnkd.in/e3RnByHB)        
 * [CISO Series](https://cisoseries.com/)     
-* [The Daily Swig](https://lnkd.in/eF8ixh46)        
-* [Threatpost](https://threatpost.com/)     
+* [Comodo News](https://lnkd.in/d6BdFW3x)
+* [CSO Online](https://www.csoonline.com/)
+* [CSO Online](https://www.csoonline.com/)      
+* [CVE Trends](https://cvetrends.com/)
+* [Cyber Defense Magazine](https://lnkd.in/d6vEwP7m)
+* [Cyber Guards](https://cyberguards.com/)
+* [Cyber Magazine](https://cybermagazine.com/)
+* [Cyber Security Review](https://bit.ly/3CF2U7q)
+* [CyberScoop](https://lnkd.in/eHgYe-wx)        
+* [Cybersecurity Insiders](https://bit.ly/3PSTNml)
 * [CyberSecurityNews](https://lnkd.in/evjYmhhm)        
 * [CyWare](https://lnkd.in/e6bMxSbp)        
-* [Schneier](https://www.schneier.com/)       
-* [SANS Newsbites](https://lnkd.in/e-ed97KU)        
-* [TheHackerNews](https://thehackernews.com/)      
-* [SANS ISC](https://isc.sans.edu/)       
-* [BleepingComputer](https://lnkd.in/eAQKdrrA)        
-* [Malwarebytes](https://lnkd.in/etwyTgpg)        
-* [CSO Online](https://www.csoonline.com/)      
-* [CyberScoop](https://lnkd.in/eHgYe-wx)        
+* [Daniel Miessler](https://lnkd.in/dtf9A8A2)
 * [Dark Reading](https://lnkd.in/eeVDQWBv)        
-* [Infosecurity](https://lnkd.in/e5ReHVK5)        
-* [Krebs on Security](https://lnkd.in/eHbSJK8U)        
-* [Naked Security](https://lnkd.in/e_xuezBK)        
-* [Talos](https://lnkd.in/e47s62Qp)        
-* [The Record](https://therecord.media/)        
-* [Sophos News](https://lnkd.in/epp_Rqg8)        
-* [The DFIR Report](https://thedfirreport.com/)      
-* [CISA Known Exploited Vulnerabilities](https://lnkd.in/e3RnByHB)        
-* [AlienVault TI Feed](https://lnkd.in/ezyrP2Ff)        
-* [Virus Share](https://virusshare.com/)     
+* [GBHackers On Security](https://bit.ly/3pSED64)
+* [Graham Cluley](https://grahamcluley.com/)
 * [GreyNoise](https://www.greynoise.io/)       
-* [Threat Feeds](https://threatfeeds.io/)     
+* [Hacker Combat](https://hackercombat.com/)
+* [HackRead](https://www.hackread.com/)
+* [Information Security Buzz](https://bit.ly/3RA6bcv)
+* [Infosecurity Magazine](https://bit.ly/3ReIqq4)
+* [Infosecurity](https://lnkd.in/e5ReHVK5)        
+* [Internet Storm Center | SANS](https://isc.sans.edu/)
+* [IT Security Guru](https://lnkd.in/dE4QCgAZ)
+* [Krebs on Security](https://lnkd.in/eHbSJK8U)        
+* [Malwarebytes](https://lnkd.in/etwyTgpg)        
 * [Mandiant TI](https://lnkd.in/edTsrmvY)        
-* This Week in 4n6:    DFIR updates
-* The Hacker News: Cybersecurity news
-* Risky Biz:   Analysis of big cyber stories
-* AWS Security Digest: AWS security updates
-* RTCSec:  News around VOIP and WebRTC security
-* Graham Cluley:   Cybersecurity news and opinions
-* Hive Five Newsletter:    Curated cybersecurity news
-* SecPro:  Analysis of threats, attacks and tutorials
-* Schneier on Security:    Cybersecurity news and opinions
-* Zero Day:    Stories about hackers, spies and cybercrime
-* Blockchain Threat Intelligence: Tools, events, threats
-* [We Live Security: Award-winning news, views and insights
-* Naked Security:  How to protect yourself from attacks etc
+* [Naked Security](https://lnkd.in/e_xuezBK)        
+* [Reddit](https://www.reddit.com/)
+* [SANS ISC](https://isc.sans.edu/)       
+* [SANS Newsbites](https://lnkd.in/e-ed97KU)        
+* [Schneier](https://www.schneier.com/)       
+* [SearchSecurity](https://lnkd.in/ddVC7u23)
+* [Securibee](https://bit.ly/3R5eBJ2)
+* [Security Gladiators](https://lnkd.in/dCBbuJVQ)
+* [Security Weekly](https://bit.ly/3AtByOM)
+* [Sophos News](https://lnkd.in/epp_Rqg8)        
+* [Talos](https://lnkd.in/e47s62Qp)        
+* [TaoSecurity](https://bit.ly/3e4QISV)
+* [TechWorm](https://www.techworm.net/)
+* [The Daily Swig](https://lnkd.in/dw89rbZz)
+* [The DFIR Report](https://thedfirreport.com/)      
+* [The Hacker News](https://thehackernews.com/)
+* [The Last Watchdog](https://lnkd.in/dbjrAWJS )
+* [The Record](https://therecord.media/)        
+* [The Security Ledger](https://lnkd.in/dcw2Z7dr)
+* [The State of Security - Tripwire](https://bit.ly/3e3TJTQ)
+* [TheHackerNews](https://thehackernews.com/)      
+* [Threat Feeds](https://threatfeeds.io/)     
+* [threatABLE](https://www.threatable.io/)
+* [Threatpost](https://threatpost.com/)     
+* [Virus Share](https://virusshare.com/)     
+* [WeLiveSecurity](https://lnkd.in/dk5n5dpC)
+* We Live Security: Award-winning news, views and insights
 * AdvisoryWeek:    Security advisory roundups by major vendors
-* CyberSecNewsWeekly:  Collection of news, articles and tools
-* TripWire’s State of Security:    Corporate cybersecurity news
+* All InfoSec News
 * API Security Newsletter: API security news and vulnerabilities
-* Threatpost: Exploits, vulnerabilities, malware and cybersecurity
-* Unsupervised Learning Community: Cybersecurity stories
-* Shift Security Left: Application security and incidents
-* tl;dr sec Newsletter: Tools, blog posts and conference talks
+* AWS Security Digest: AWS security updates
+* Blockchain Threat Intelligence: Tools, events, threats
+* Comodo News
 * CSO Online:  News and research on security and risk management
-* Krebs On Security:   Cybersecurity journalism that's interesting
+* CVE Trends
+* Cyber Defense Magazine
+* Cyber Magazine
+* Cyber Security Review
+* Cybers Guards
+* CyberSecNewsWeekly:  Collection of news, articles and tools
+* Cybersecurity Insiders
+* Daniel Miessler
+* Dark Reading
+* Errata Security
+* GBHackers On Security
 * Gov Info Security:   Governmental cybersecurity news
+* Graham Cluley:   Cybersecurity news and opinions
+* Hacker Combat
+* HackRead
+* Help Net Security
+* Hive Five Newsletter:    Curated cybersecurity news
+* Information Security Buzz
+* Infosec Land
+* Infosecurity Magazine
+* Internet Storm Center | SANS
+* IT Security Guru
+* Krebs On Security:   Cybersecurity journalism that's interesting
+* Naked Security:  How to protect yourself from attacks etc
+* Reddit
+* Risky Biz:   Analysis of big cyber stories
+* RTCSec:  News around VOIP and WebRTC security
+* Schneier on Security:    Cybersecurity news and opinions
+* SearchSecurity
+* SecPro:  Analysis of threats, attacks and tutorials
+* Securibee
+* Security Gladiators
+* Security Weekly
+* Shift Security Left: Application security and incidents
+* TaoSecurity
+* TechWorm
+* The CyberWire
+* The Hacker News: Cybersecurity news
+* The Last Watchdog
+* The Security Ledger
+* The State of Security - Tripwire
+* This Week in 4n6:    DFIR updates
+* Threatpost
+* Threatpost: Exploits, vulnerabilities, malware and cybersecurity
+* tldr sec Newsletter: Tools, blog posts and conference talks
+* TripWire’s State of Security:    Corporate cybersecurity news
+* Troy Hunt's Blog
+* Twitter
+* Unsupervised Learning Community: Cybersecurity stories
+* WeLiveSecurity
+* Zero Day:    Stories about hackers, spies and cybercrime
 
 
 #### Python:
@@ -199,22 +288,35 @@
 
 
 #### Free Certs:
-* [NSE 1,2 & 3](https://lnkd.in/gS2MQ-5d)   
-* [Introduction to Cybersecurity](https://lnkd.in/gS4ncPmX)   
-* [Cybersecurity Essentials](https://lnkd.in/gSQqNY9h)   
-* [Networking Essentials](https://lnkd.in/g6JMDGGe)   
-* [Android Bug Bounty Hunting- Hunt Like a Rat](https://lnkd.in/garK_Mbi)   
-* [Ethical Hacking Essentials (EHE)](https://lnkd.in/gckkuxUg)   
-* [Website Hacking Techniques](https://lnkd.in/gJ8CCZMy)   
-* [Digital Forensics Essentials (DFE)](https://lnkd.in/gx2nAjPX)   
-* [Network Defense Essentials (NDE)](https://lnkd.in/gU8V32sK)   
-* [Introduction to Dark Web, Anonymity, and Cryptocurrency](https://lnkd.in/gmnCSQsV)   
-* [Certified in Cybersecurity℠ - CC](https://lnkd.in/gQiYJdTv)   
+* [Android Bug Bounty Hunting: Hunt Like a Ra](https://lnkd.in/garK_Mbi)
 * [AWS](https://lnkd.in/gjVduQen)   20+ Free AWS Certs Related to Cybersecurity
-
+* [CCNA Security Course](https://lnkd.in/dFaKhErK)
+* [Certified in Cybersecurity℠ - CC](https://lnkd.in/gQiYJdTv)   
+* [Cybersecurity Essentials](https://lnkd.in/gSQqNY9h)   
+* [Digital Forensics by Open Learn](https://lnkd.in/eanefxxv)
+* [Digital Forensics Essentials (DFE)](https://lnkd.in/gx2nAjPX)   
+* [Ethical Hacking Essentials (EHE)](https://lnkd.in/gckkuxUg)   
+* [Information Security by OpenLearn](https://lnkd.in/e5RjqYxj)
+* [Intro to Information Security by Udacity](https://lnkd.in/eREqvhNG)
+* [Introduction to Cyber Security by Udacity](https://lnkd.in/eFaAiggq)
+* [Introduction to Cybersecurity](https://lnkd.in/gS4ncPmX)   
+* [Introduction to Dark Web, Anonymity, and Cryptocurrency](https://lnkd.in/gmnCSQsV)   
+* [Network Defense Essentials (NDE)](https://lnkd.in/gU8V32sK)   
+* [Network Security by OpenLearn](https://lnkd.in/ee3y98ju)
+* [Network Security by Udacity](https://lnkd.in/eDst6HqF)
+* [Networking Essentials](https://lnkd.in/g6JMDGGe)
+* [NSE 1,2 & 3](https://lnkd.in/gS2MQ-5d)   
+* [Risk Management by Open Learn](https://lnkd.in/e-tNfXJQ)
+* [Website Hacking Techniques](https://lnkd.in/gJ8CCZMy)   
 
 #### Certs Prep:
 * [Here](https://lnkd.in/dTAzdcKV)   (Security +, CEH, PenTest+, OSWP, OSCP, eJPT, eMAPT)
+* [eJPT](https://lnkd.in/epAG2R39)
+* [eMAPT](https://lnkd.in/dpdEV_UY)
+* [eWPT](https://lnkd.in/d5g4w22n)
+* [eWPTX](https://lnkd.in/dhEvuNuW)
+* [eCXD](https://lnkd.in/dwN_q6y4)
+* [eCPTXv2](https://lnkd.in/dEiVaZBG)
 * [The Security Certification Roadmap by Paul Jerimy](https://lnkd.in/eYxih4tT) 
 * [How to Analyze a Cybersecurity Certification site by Meghan Jacquot, GCTI](https://lnkd.in/eBtDaBT4) 
 * [Go further with Joas A Santos PenTest Certification RoadMap](https://lnkd.in/egmcyfVw)  
@@ -222,9 +324,39 @@
 * Prep your certs with Marcelo Vázquez (Aka. S4vitar) for Multiple certifications
 * [HTB Machines](https://lnkd.in/eCuEwkGN) 
 * [Study Plan](https://lnkd.in/ex3zMYR7)  
-* [Rana Khalil and Ippsec for the OSCP](https://lnkd.in/e2cvZt9K)   
 * [Here](https://ippsec.rocks/?#)  
-
+* [CISSP](https://www.linkedin.com/posts/willbroom_cissp-exam-study-guide-activity-6980119540852502529-Ve3q?utm_source=share&utm_medium=member_desktop)
+**OSCP** 
+* [Rana Khalil and Ippsec for the OSCP](https://lnkd.in/e2cvZt9K)  
+* [OSCP Experience](https://lnkd.in/dhBWfKh6)
+* [OSCP Experience](https://lnkd.in/d_agbWdq)
+* [OSCP Experience](https://lnkd.in/dT-Tr9dF)
+* [OSCP Experience](https://lnkd.in/dEx6Mddv)
+* [OSCP Experience](https://lnkd.in/djdPBvC5)
+* [OSCP Experience](https://lnkd.in/dPJsZjeh)
+* [Cheat Sheets for All the Things](https://lnkd.in/dRvrmc6c)
+*[Cheat Sheets for All the Things](https://lnkd.in/dBmCxUE5)
+*[Cheat Sheets for All the Things](https://lnkd.in/dpFJRC4d)
+*[Cheat Sheets for All the Things](https://lnkd.in/djzANjaG)
+*[Cheat Sheets for All the Things](https://lnkd.in/d5AKKM4r)
+*[Cheat Sheets for All the Things](https://lnkd.in/d87JHCeW)
+*[Cheat Sheets for All the Things](https://lnkd.in/dKHy-Xmd)
+*[Cheat Sheets for All the Things](https://lnkd.in/d5u5qxEp)
+* [The Basics - Start Here](https://lnkd.in/dWXmh3dV)
+* [The Basics - Start Here](https://lnkd.in/d3ssdwjH)
+* [The Basics - Start Here](https://lnkd.in/dyKDsFPp)
+* [The Basics - Start Here](https://lnkd.in/dEQXR6Yf)
+* [Metasploit](https://lnkd.in/dc5hMSUg)(https://lnkd.in/dMNY5wMf)
+* [OSCP Experience (Linux Exploitation)](https://lnkd.in/dk6VXNwh)
+* [Privilege Escalation - Linux](https://lnkd.in/djAAJjrn)
+* [TCPDump](https://lnkd.in/dyttc33m)
+* [Buffer Overflows](https://lnkd.in/dPc8zMRD)
+* [Buffer Overflows]https://lnkd.in/dmC--npa
+* [Enumeration](https://lnkd.in/d7hkpKYa)
+* [Enumeration](https://lnkd.in/dMjnGeKu)
+* [Enumeration](https://lnkd.in/dh9B4aSS)
+* [Reverse and Bind Shell tutorials](https://lnkd.in/dtC5zGWX)
+* [Text Editor Cheat Sheets](https://vim.rtorr.com/ - Vim)
 
 #### Important Certs:
 * [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)                                                    
@@ -260,6 +392,25 @@
 * [Articles 5](https://lnkd.in/e7zzmh4V)      
 * 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗕𝗼𝗻𝘂𝘀
 * [Malware Analysis and Reverse Engineering courses by DFIR Diva](https://lnkd.in/eCxGV2iP)      
+
+#### Network Pentesting:
+* [Physical Attacks](https://lnkd.in/eJebSRQc)
+* [Data/MAC Attacks](https://lnkd.in/e_CMnzDK)
+* [Network Attacks](https://lnkd.in/ef5sWWsg)
+* [Transport Attacks](https://lnkd.in/eAXsj7Ss)
+* [Session Attacks](https://lnkd.in/epFpuy8y)
+* [Presentation Attack Tool](https://lnkd.in/eq-PkxsD)
+* [Application Attack Tool](https://lnkd.in/exkDCzjd)
+
+#### Projects:
+* Network Pentesting
+* [Layer 1: Nmap](https://nmap.org/), [Rogue device detection](https://lnkd.in/et_Actfn) Project: Use Nmap to investigate rogue devices. 
+* [Layer 2: Yersinia](https://lnkd.in/e6C9eFSH), [Wireshark](https://www.wireshark.org/) Project: Run Wireshark, capture and attack with Yersinia.
+* [Layer 3:Ettercap](https://lnkd.in/eW3XSDxy), Project: Use Ettercap for MITM attacks.
+* [Layer 4:Dsniff](https://lnkd.in/eptT256D), Project: Try TCP spoofing or password sniffing.
+* [Layer 5:Sslstrip](https://lnkd.in/exmfjpWP), Project: Utilize for session hijacking.
+* [Layer 6:Scapy](https://lnkd.in/eq-PkxsD), Project: Use Scapy to generate fake ICM and ARP packets.
+* [Layer 7:BruteX](https://lnkd.in/exkDCzjd), Project: Scan using Nmap and use BruteX to force open services. 
 
 
 #### Arabic:
@@ -305,6 +456,9 @@
 * [Slides](https://lnkd.in/d6wZvWxZ)
 * [Videos](https://lnkd.in/d_SsWR4j)
 * [Linux](https://lnkd.in/d37p2WZv)
+* [ITI](https://lnkd.in/de7FZmcT)
+* [ITI](https://lnkd.in/d6qV_CR7)
+* [ITI](https://lnkd.in/dSbhUpCm)
 
 
 * Systems Development
@@ -337,20 +491,66 @@
 
 
 #### Trainings:
-* [DHS training](https://lnkd.in/eQBBQZYc)        
-* [FedVTE Training](https://lnkd.in/eTUQS4Vj)        
-* [SANS Cyberaces Training](https://www.cyberaces.org/)      
-* [COMPTIA (networking, cloud and cyber)](https://lnkd.in/era9pKjP)        
-* [Cybrary IT](https://www.cybrary.it/)     
-* [Cybersecurity Basics](https://lnkd.in/ezd5Z47D)        
-* [Cyber Readiness Institute](https://lnkd.in/eynvhaZN)        
-* [NICCS Education and Training Catalog](https://lnkd.in/eH9zxzpr)        
 * [CISA](https://lnkd.in/e2GuNfp5)        
+* [COMPTIA (networking, cloud and cyber)](https://lnkd.in/era9pKjP)        
+* [Cyber Readiness Institute](https://lnkd.in/eynvhaZN)        
+* [Cybersecurity Basics](https://lnkd.in/ezd5Z47D)        
+* [Cybrary](https://lnkd.in/eqEByX6c)
+* [Defend The Web](https://defendtheweb.net/)
+* [DHS training](https://lnkd.in/eQBBQZYc)        
+* [EchoCTF](https://echoctf.red/)
+* [Ethical Hacking Course (YouTube)](https://lnkd.in/eG3ewvfu)
+* [FedVTE Training](https://lnkd.in/eTUQS4Vj)        
 * [Fortinet](https://www.fortinet.com)        
+* [Game Of Hacks](https://lnkd.in/eNC7BBE4)
+* [Google Gruyere](https://lnkd.in/ej2yAEKy)
+* [Hack This Site](https://lnkd.in/eSN7fNu7)
+* [Hack Yourself First](https://lnkd.in/eHJCrR_q)
+* [Hack[.]me](https://hack.me)
+* [HackerTest](http://www.hackertest.net/)
+* [HackTheBox](https://lnkd.in/esmZ7pFT)
+* [Hackxor](https://hackxor.net/)
+* [INE](https://my.ine.com/)
+* [Linux for Ethical Hacking (YouTube)](https://lnkd.in/ePvRW7qU)
+* [NICCS Education and Training Catalog](https://lnkd.in/eH9zxzpr)        
+* [OverTheWire](https://lnkd.in/ekrSGkXW)
+* [OWASP Juice Shop](https://lnkd.in/eT6ezYZy)
+* [PentesterLab](https://lnkd.in/eSG3446e)
+* [PortSwigger Web Security Academy](https://lnkd.in/ed5nQCZc)
+* [SANS Cyberaces Training](https://www.cyberaces.org/)      
+* [TCM Security Course (YouTube)](https://lnkd.in/ejk5Y9ms)
+* [TryHackMe](https://tryhackme.com/)
+* [VulnHub](https://www.vulnhub.com/)
+* [Web App Hacking (YouTube)](https://lnkd.in/ejq6TRmh)
+* [CompTIA Security+](https://lnkd.in/e7PBncg5)
+* [Ethical Hacking ](https://lnkd.in/e_mM9HEi)
+* [SOC Analyst Study Guide (Jay Jay D.) ](https://bit.ly/3prRhIZ)
+* [CISSP ](https://lnkd.in/e43zgzH4)
+* [Python ](https://lnkd.in/ev-2YDFT)
+* [OSINT ](https://lnkd.in/esZzTZH3)
+* [Network Security ](https://lnkd.in/eZqpT_XU)
+* [Microsoft Azure ](https://lnkd.in/epJZ7FGW)
+* [AWS Certified Solutions Architect ](https://lnkd.in/e8pXuPTz)
+* [Malware Analysis ](https://lnkd.in/eV9PGKhB)
+* [How to become a SOC Analyst ](https://lnkd.in/eM4g9T4p)
+* [DFIR Diva (Digital Forensics / Incident Response)](https://lnkd.in/e-8ggka9)
+* [Information Security by OpenLearn:](https://lnkd.in/e5RjqYxj)
+* [Network Security by Udacity:](https://lnkd.in/eDst6HqF)
+* [Risk Management by Open Learn:](https://lnkd.in/e-tNfXJQ)
+* [Intro to Information Security by Udacity:](https://lnkd.in/eREqvhNG)
+* [Digital Forensics by Open Learn:](https://lnkd.in/eanefxxv)
+* [Network Security by OpenLearn:](https://lnkd.in/ee3y98ju)
+* [Introduction to Cyber Security by Udacity:](https://lnkd.in/eFaAiggq)
+* [GIT](https://lnkd.in/eb6fq4DC)
+* [Linux](https://linuxsurvival.com/)
+* [Curricula](https://www.curricula.com/)
+* [Check out this amazing mindmap made by Aman Hardikar](https://lnkd.in/e4q4gbWG)
+* [Have a look at this amazing list by Julien Provenzano ☁ of 50 Cyber labs!](https://lnkd.in/eM5nEN_f)
+* [Practice API hacking with vAPI by Tushar Kulkarni:](https://lnkd.in/eVJeXPc3)
+* [Practice GCP Cloud hacking with GCP-goat by Joshua Jebaraj:](https://lnkd.in/encFUhph)
+* [Practice smart contract pentest with DeFi smart contracts by tinchoabbate:](https://lnkd.in/enNHgYku)
 * HackXpert:   Free labs and training
-* TryHackMe: Hands-on exercises and labs
 * CyberSecLabs:    High quality training labs
-* Cybrary: Videos, labs, and practice exams
 * LetsDefend:  Blue team training platform
 * Root Me: Over 400 cybersecurity challenges
 * RangeForce:  Interactive and hands-on platform
@@ -358,12 +558,7 @@
 * Vuln Machines:   Real world scenarios to practice
 * Try2Hack:    Play a game based on the real attacks
 * TCM Security:    Entry level courses for cybersecurity
-* EchoCTF: Train your offensive and defensive skills
-* Hack The Box:    Online cybersecurity training platform
 * Vuln Hub:    Material for practical hands-on experience
-* OverTheWire: Learn security concepts through challenges
-* PentesterLab:    Learn web-application penetration testing
-* PortSwigger Web Security Academy:    Extensive learning material
 * Coursera
 * edX
 * Khan Academy
@@ -373,7 +568,56 @@
 * Stanford Online
 * Codecademy
 * Open Culture Online Courses
+##### Data Structure:
+* [Walid Yousif](https://lnkd.in/e7_v4dSc)
+* [LeetCode Path](https://lnkd.in/epbYtMFF)
+* [trie](https://lnkd.in/eacuHzJm)
+* [Questions](https://lnkd.in/eCciAycM)
+* [FAANG Questions](https://lnkd.in/ee7epcmr)
+* [Data Structure, Algorithms](https://visualgo.net/en)
 
+#### Games:
+* [Backdoors and Breaches by the Black Hills](https://lnkd.in/dNT5eCnb)
+* [Cyber Awareness Challenge 2022](https://lnkd.in/g9_ZjA3Q)
+* [Cyber Threat Defender by University of Texas](https://lnkd.in/dBb9Ej6c)
+* [CyberDefenders](https://lnkd.in/duNT5f7K)
+* [Cybersecurity Circus](https://lnkd.in/gu7a8asZ)
+* [Cybersecurity Games by CISA](https://lnkd.in/dTvsjvcC)
+* [Cybersecurity Lab](https://lnkd.in/gchPJdMa)
+* [Defend the Crown](https://lnkd.in/gH9_GzcQ)
+* [Duskers](https://lnkd.in/dv7predP)
+* [eLearnSecurity/INE](https://lnkd.in/dqgv2Tb2)
+* [Elk](https://lnkd.in/dJAZAFST)
+* [Fight Back](https://lnkd.in/giSF4f7Q)
+* [Game of Threats](https://lnkd.in/gfX7PwNA)
+* [Hack the Box](https://lnkd.in/d65kAB2z)
+* [HackerOne CTF](https://ctf.hacker101.com/)
+* [Hacknet on Steam](https://lnkd.in/df7SYBQn)
+* [HackTheBox Academy](https://lnkd.in/dvcvHwc5)
+* [Haiku, Inc](https://lnkd.in/dZddZ6AK)
+* [Hotel Hijinks](https://lnkd.in/gH9_GzcQ)
+* [Immersive Lab](https://lnkd.in/d8si-Naj)
+* [Information Security](https://lnkd.in/dx-bA8qa)
+* [Keep Tradition Secure](https://lnkd.in/g9BwtmE9)
+* [Let’s Defend](https://letsdefend.io/)
+* [Network Collapse](https://lnkd.in/gH9_GzcQ)
+* [NINJIO](https://lnkd.in/dDn4i4n7)
+* [Nite Team 4](https://lnkd.in/d25iBqY9)
+* [OverTheWire](https://lnkd.in/dPy7EkWV)
+* [picoCTF ](https://picoctf.org/)
+* [RangeForce ](https://lnkd.in/dHsT_gCx)
+* [Security Blue Team](https://lnkd.in/dMq_JS9Y)
+* [Splunk Boss of the SOC](https://lnkd.in/d-i4NTbj)
+* [Spudnet Board Game](https://lnkd.in/ds-hksvV)
+* [Targeted Attack Trendmicro](https://lnkd.in/dK8RFeJX)
+* [Targeted Attack: The Game](https://lnkd.in/gUM7umTG)
+* [The Missing Link: A Cyber-Security Mystery](https://lnkd.in/gSxx9je5)
+* [The Weakest Link](https://lnkd.in/gy-x___c)
+* [ThreatGen Red vs. Blue](https://lnkd.in/ddWR8ik6)
+* [TIS-100](https://lnkd.in/duRfYghx)
+* [TryHackMe ](https://tryhackme.com/)
+* [Uplink](https://lnkd.in/dBt7s73u)
+* [Vulnmachines](https://lnkd.in/dpSnNk_2)
 
 #### remote cybersecurity job:
 * Nike 
@@ -417,7 +661,16 @@
 * Netscout
 * Pulse Secure
 * Gigamon
-* [mote OK](‏https://remoteok.com/)      
+* [Cybersecurity Engineer II at Home Depot](https://lnkd.in/gWWqK9ib)
+* [Security Analyst at Apex Systems](https://lnkd.in/g7uEwbbE)
+* [Security Analyst at KForce](https://lnkd.in/ge_M6TJ7)
+* [Threat Analyst at Sophos](https://lnkd.in/gbwW_hWF)
+* [Security Operations Engineer at CrowdStrike](https://lnkd.in/gUJNyBNQ)
+* [Information Security Analyst at Optum](https://lnkd.in/gbcb2FKm)
+* [Computer Systems Security Analyst at Apollo ](https://lnkd.in/gcrHzUgp)
+* [Information Security Specialist at NISC](https://lnkd.in/ga9b9dqF)
+* [Junior Security Engineer at VerSprite](https://lnkd.in/gcyvRABk)
+* [Remote OK](‏https://remoteok.com/)      
 * [Just Remote](‏https://lnkd.in/d4-eZVfF)       
 * [AngelList Talent](‏https://angel.co/jobs/home)     
 * [We Work Remotely](‏https://lnkd.in/dN4ezCw6)       
@@ -451,8 +704,6 @@
 * GM4JH
 * Personalbrandingblog
 * Jibberjobber ‏and Sure Wuzzuf
-
-
 * [Nicole Enesse](https://lnkd.in/g9enrpDt)    
 * [NetworkChuck](https://lnkd.in/ghpkspKq)    
 * [Grant Collins](https://lnkd.in/gH9a3ikn)    
@@ -463,31 +714,85 @@
 * [UnixGuy](https://lnkd.in/g59F-S9Z)    
 
 
+#### Internships:
+* [Cybersecurity Intern at Home Depot](https://lnkd.in/gs_HCJVv)
+* [Information Security Internship at First National Bank](https://lnkd.in/gc4jj2Fk)
+* [IT Security GRC Intern at TDS](https://lnkd.in/gSZUFVk6)
+* [GRC Cybersecurity Intern at BHG Financial](https://lnkd.in/g72GDJsf)
+* [Cybersecurity Intern at Shure](https://lnkd.in/gDjY3vHD)
+* [Cybersecurity Internship at ManTech International ](https://lnkd.in/gRn5_ijv)
+* [Cybersecurity Engineering Intern at Peraton](https://lnkd.in/gNUzJUrp)
+* [Information Security Intern at CSG](https://lnkd.in/gu8FUxiJ)
+* [Security Operations Intern at Workiva](https://lnkd.in/gUX-6mdV)
+* [IT Security Engineer Intern at CSAA Insurance Group](https://lnkd.in/gpeFR_TU)
+
 
 
 #### OSINT:
-* [NumLookup - Free reverse phone lookup](www.numlookup.com/)          
-* spydialer.com/          SpyDialer - Free Reverse Lookup Search
-* [WhitePages - Find people, contact info & background checks](www.whitepages.com/)         
-* [National Cellular Directory - Begin your comprehensive people search now](https://lnkd.in/dfUVjKWC)            
-* [Phone Validator - Is it a cell phone, a landline, or a fake one?](www.phonevalidator.com/)         
-* freecarrierlookup.com/          Free Carrier Lookup - Enter a phone number and we'll return the carrier name
-* rocketreach.co:  RocketReach - Your first-degree connection to any professional
-* sync.me: Sync Me - Find out who called
-* [EmobileTracker - Track Mobile Owner Name, Location, and Mobile Service Provider](www.emobiletracker.com)          
-* [Reverse Phone Lookup - Find Out The Owner Of A Phone Number](https://lnkd.in/dGGfjV-y)            
-* [ThatsThem - Reverse phone lookup](https://lnkd.in/d8rvhtuF)            
-* [This Number - International Phone Directories](www.thisnumber.com)                  
-* [Usphonebook - Free Reverse Phone Number Lookup](www.usphonebook.com/)            
-* [True People Search - Get current address, cell phone number, email address, relatives, friends, and a lot more](www.truepeoplesearch.com/)           
-* [Tellows - Who is calling? The phone number reverse search](www.tellows.com/)            
-* synapsint.com/          SynapsInt - The unified OSINT research 
-* api.c99.nl/         C99.nl - Over 57 quality API's and growing  
-* [This dude was recommended to me by someone much better than me:](https://lnkd.in/eCH2kBRC)    
-* [Currently using this tool myself for tracking Russian military movement in my spare time. It an awesome forensic magnifier:](https://lnkd.in/eHP_GpWm)    
+* [Alienvault](https://otx.alienvault.com)
 * [Another forensics tool that can help determine authenticity of an image, including scraping metadata:](https://fotoforensics.com/)  
+* [Central Ops](https://centralops.net)
+* [Currently using this tool myself for tracking Russian military movement in my spare time. It an awesome forensic magnifier:](https://lnkd.in/eHP_GpWm)    
+* [Digital Whois](https://lnkd.in/dttS_SY6)
+* [DNS Dumpster](https://dnsdumpster.com)
+* [DNS History](http://dnshistory.org)
+* [DNS Viz](https://dnsviz.net)
+* [DNSlytics](https://dnslytics.com)
+* [Domain Help](https://domainhelp.com)
+* [Domain Tools](https://lnkd.in/dXCReyv9)
+* [EmobileTracker - Track Mobile Owner Name, Location, and Mobile Service Provider](www.emobiletracker.com)          
+* [Google Admin Toolbox Dig](https://lnkd.in/dWRhY2Tm)
+* [Hurricane Electric](https://bgp.he.net)
+* [Info Sniper](https://www.infosniper.net)
+* [Into DNS](https://intodns.com)
+* [IP 2 Location](https://lnkd.in/dRmq5KC7)
+* [IP Address](https://www.ipaddress.com)
+* [IP Checking](https://www.ipchecking.com)
+* [IP Fingerprints](https://lnkd.in/dePeqn_r)
+* [IP Info](https://ipinfo.io)
+* [IP Void](https://www.ipvoid.com)
+* [Moz Link Explorer](https://lnkd.in/drdqjCgJ)
+* [National Cellular Directory - Begin your comprehensive people search now](https://lnkd.in/dfUVjKWC)            
+* [Netcraft](https://www.netcraft.com)
+* [Network Tools](https://network-tools.com)
+* [NixIntel’s OSINT Resource List](https://lnkd.in/eajQU79r)
+* [NumLookup - Free reverse phone lookup](www.numlookup.com/)          
+* [OSINT Curious YouTube Playlist](https://lnkd.in/eRiGxRf9)
+* [OSINT Framework](https://lnkd.in/etsGK9nB)
+* [OSINT Games](https://www.osint.games/)
+* [OSINT Jobs](https://lnkd.in/egyUM36K)
+* [OSINT Tools](https://osint.link/)
+* [Phone Validator - Is it a cell phone, a landline, or a fake one?](www.phonevalidator.com/)         
+* [Pulsedive](https://pulsedive.com)
+* [Reverse Phone Lookup - Find Out The Owner Of A Phone Number](https://lnkd.in/dGGfjV-y)            
+* [Robtex](https://www.robtex.com)
+* [SANS OSINT Resources](https://lnkd.in/ejqTZSc8)
+* [Synapsint](https://synapsint.com)
+* [TCM Security OSINT Course](https://lnkd.in/eZXGb2mb)
+* [Tellows - Who is calling? The phone number reverse search](www.tellows.com/)            
+* [ThatsThem - Reverse phone lookup](https://lnkd.in/d8rvhtuF)            
+* [The Ultimate OSINT Collection (hatless1der](https://lnkd.in/eid9X8wY)
+* [This dude was recommended to me by someone much better than me:](https://lnkd.in/eCH2kBRC)    
+* [This Number - International Phone Directories](www.thisnumber.com)                  
+* [Threat Jammer](https://threatjammer.com)
+* [True People Search - Get current address, cell phone number, email address, relatives, friends, and a lot more](www.truepeoplesearch.com/)           
+* [URL Query](https://urlquery.net)
+* [URL Scan](https://urlscan.io)
+* [URL Void](https://www.urlvoid.com)
+* [Usphonebook - Free Reverse Phone Number Lookup](www.usphonebook.com/)            
+* [View DNS](https://viewdns.info)
+* [Website Informer](https://lnkd.in/drCmhxTy)
+* [WhitePages - Find people, contact info & background checks](www.whitepages.com/)         
+* [Whois Request](https://whoisrequest.com)
+* [Whois](https://who.is)
+* [Whoisology](https://whoisology.com)
+* api.c99.nl/         C99.nl - Over 57 quality API's and growing  
+* freecarrierlookup.com/          Free Carrier Lookup - Enter a phone number and we'll return the carrier name
 * Lastly, you can just use the ol’classic such as the big 3 reverse image searchers [Google, Bing, Yandex]. Each offer its own pros and cons so it’s worth trying all 3 if you're ever stuck.
-
+* rocketreach.co:  RocketReach - Your first-degree connection to any professional
+* spydialer.com/          SpyDialer - Free Reverse Lookup Search
+* synapsint.com/          SynapsInt - The unified OSINT research 
+* sync.me: Sync Me - Find out who called
 
 #### API:
 * Blog:    APIsec OWASP API Security Top 10: A Deep Dive
@@ -542,19 +847,54 @@
 
 
 #### SOC:
-* [Splunk Courses (FREE)](https://lnkd.in/d_dZNduf)        
-* [Fortinet Courses (FREE)](https://lnkd.in/dmmkZ-tH)        
 * [AttackIQ Mitre Att&ck Courses (FREE)](https://lnkd.in/dcfmSPEJ)        
-* [Microsoft SC-200 Course (FREE)](https://lnkd.in/dbCn3k4n)        
 * [Awesome OSINT Courses (FREE)](https://lnkd.in/dTCaCf-u)        
+* [CCNA :](https://lnkd.in/dna5PVnW)
+* [CCNA](https://lnkd.in/dtbxkcz8)
+* [Cisco Career Paths:](https://lnkd.in/d4H6tpnD)
 * [CSILinux Forensic Trainings (FREE)](https://lnkd.in/dhjwx_5h)        
-* [Cybrary Trainings (FREE)](https://cybrary.it)              
+* [Cyber kill Chain](https://lnkd.in/ddC_V8N6)
+* [Cyber kill Chain](https://lnkd.in/dfsH2wSK)
+* [CyberOps:](https://lnkd.in/dhmaDXJg)
+* [Cybrary Career Paths:](https://lnkd.in/dYkw43j6)
+* [Cybrary Trainings (FREE)](https://cybrary.it)           
+* [Fortinet Courses (FREE)](https://lnkd.in/dmmkZ-tH)        
+* [IBM Documents](https://lnkd.in/derN2XT7)
+* [IBM Training](https://lnkd.in/dvD7eh3F)
+* [Incident Response life cycle](https://lnkd.in/dMd97Kuv)
+* [Intro](https://lnkd.in/dGrAYbrp)
+* [Intro](https://lnkd.in/dM2p2eNx)
+* [Intro](https://lnkd.in/dRsvC3c8)
+* [Intro](https://lnkd.in/dUpPGCfh)
+* [Linux](https://lnkd.in/d-8fG-pM)
+* [Linux](https://lnkd.in/dbfexBqJ)
+* [Linux](https://lnkd.in/dMdM-TCB)
+* [Log Analysis](https://lnkd.in/dakYURwj)
+* [Log Analysis](https://lnkd.in/deAmcM64)
+* [Microsoft SC-200 Course (FREE)](https://lnkd.in/dbCn3k4n)        
+* [Network Defense essentials](https://lnkd.in/d8MYjFTy)
+* [Network essentials](https://lnkd.in/d-bqMxrp)
+* [Network+ :](https://lnkd.in/dHgDMuhC)
+* [OWASP TOP 10](https://lnkd.in/dxkEgaKs)
+* [Qradar](https://lnkd.in/dtFV58iP)
+* [Security+: ](https://lnkd.in/d_Kn7Gkn)
+* [SIEM](https://lnkd.in/d8286_Hj)
+* [SIEM](https://lnkd.in/deZZthga)
+* [SOC investigation " Arabic "](https://lnkd.in/dh3dUW2J)
+* [Splunk Courses (FREE)](https://lnkd.in/d_dZNduf)        
+* [Splunk](https://lnkd.in/dm_e5-2T)
+* [Splunk](https://lnkd.in/dXVX8hsn)
 
 
-
+Threat Hunting Resources:
+* [Thousands, Here](https://lnkd.in/dnsS7NAS)
+* [Others](https://lnkd.in/d9YnPn9g)
+* [Others](https://lnkd.in/dkhhEzcp)
+* [Others](https://lnkd.in/d-5F6Ju9)
 
 #### SQL:
-* [SQLFlow](https://buff.ly/3rB3yMr)     
+* [SQLFlow](https://buff.ly/3rB3yMr) 
+* [FAANG Excersices](https://lnkd.in/dR7c_H3H)    
 * SQLZOO
 * SQLBolt
 * LinuxJedi
@@ -644,45 +984,76 @@
 * [Mentalist- -Unique GUI based password wordlist generator compatible with CeWL and John the Ripper](https://lnkd.in/gfp8RTGh)        
 
 
-#### Pentest Tools:
+#### Tools:
 * [See Rajneesh G.’s post about some of the Practical web Pentesting tools.](https://lnkd.in/ei7R8gsx)    
 * [You know the Nmap project? Well they have a list of the top 125 Network Security Tools](https://sectools.org/)   
 * [Julien Maury shared a Top 10 on eSecurity Planet](https://lnkd.in/ezNgTvfF)     
 * [And SANS Technology Institute has a list of tools including plenty of pentest tools:](https://lnkd.in/eHmusQYg)    
 * [Finally arch3rPro has an amazing amount of tools listed on github:](https://lnkd.in/eA988c_k)    
-
+* [Book of tools by SANS](https://www.linkedin.com/feed/update/urn:li:activity:6980484265918541824?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6980484265918541824%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3B3u6yHS4QRCa9bdqUFv6fgA%3D%3D)
 
 #### Search Engines:
-* Dehashed:    View leaked credentials
-* SecurityTrails:  Extensive DNS data
-* DorkSearch:  Really fast Google dorking
-* ExploitDB:   Archive of various exploits
-* ZoomEye: Gather information about targets
-* Pulsedive:   Search for threat intelligence
-* GrayHatWarefare: Search public S3 buckets
-* PolySwarm:   Scan files and URLs for threats
-* Fofa:    Search for various threat intelligence
-* LeakIX:  Search publicly indexed information
-* DNSDumpster: Search for DNS records quickly
-* FullHunt:    Search and discovery attack surfaces
+* Airport webcams:  Webcam
 * AlienVault:  Extensive threat intelligence feed
-* ONYPHE:  Collects cyber-threat intelligence data
+* Binary Edge: Scans the internet for threat intelligence
+* Censys:  Assessing attack surface for internet connected devices
+* Criminal IP:  IP Report
+* CRT sh:  Search for certs that have been logged by CT
+* CVE Details:  Exploits database
+* Cyber Background Checks:  Personal information
+* Dehashed:    View leaked credentials
+* DNSDumpster: Search for DNS records quickly
+* DorkSearch:  Really fast Google dorking
+* Earthcam:  Webcam
+* EPIEOS:  Personal information
+* ExploitDB:   Archive of various exploits
+* exploits.shodan:  Exploits database
+* Firefox Monitor:  Personal information
+* Fofa:    Search for various threat intelligence
+* FullHunt:    Search and discovery attack surfaces
+* Google AdWords:  Marketing keyword
+* GrayHatWarefare:  searchable database of open S3 buckets
 * Grep App:    Search across a half million git repos
+* GreyNoise:   Search for devices connected to the internet
+* HaveIBeenPwned:  Personal information
+* Hunter:  Search for email addresses belonging to a website
+* Insecam:  Webcam
+* IntelligenceX:   Search Tor, I2P, data leaks, domains, and emails
+* Keyword discover:  Marketing keyword
+* Keyword Shitter:  Marketing keyword
+* Keyword Tool:  Marketing keyword
+* KWFinder:  Marketing keyword
+* LeakIX:  Search publicly indexed information
+* Lookr:  Weather
+* Netlas:  Search and monitor internet connected assets
+* nmmapper:  Exploits database
+* Nuclear Leaks:  Directory
+* ONYPHE:  Collects cyber-threat intelligence data
+* Opentopia:  Webcam
+* OSINT Framework:  Directory
+* OSINT-Link:  Directory
+* Packet Storm Security:   Browse latest vulnerabilities and exploits
+* Pictimo:  Webcam
+* Pipl:  Personal information
+* PolySwarm:   Scan files and URLs for threats
+* PublicWWW:   Marketing and affiliate marketing research
+* Pulsedive:   Search for threat intelligence
+* SearchCode:  Search 75 billion lines of code from 40 million projects
+* SecurityTrails:  Extensive DNS data
+* Shodan:  Search for devices connected to the internet
+* SignalHire:  Personal information
+* sploitus:  Exploits database
+* Tineye:  Reverse Image
 * URL Scan:    Free service to scan and analyse websites
+* Vulmon:  Exploits database
+* vulnerability-lab:  Exploits database
 * Vulners: Search vulnerabilities in a large database
 * WayBackMachine:  View content from deleted websites
-* Shodan:  Search for devices connected to the internet
-* Netlas:  Search and monitor internet connected assets
-* CRT sh:  Search for certs that have been logged by CT
+* Webcam-nl (NL):  Webcam
+* Webcams-travel:  Webcam
 * Wigle:   Database of wireless networks, with statistics
-* PublicWWW:   Marketing and affiliate marketing research
-* Binary Edge: Scans the internet for threat intelligence
-* GreyNoise:   Search for devices connected to the internet
-* Hunter:  Search for email addresses belonging to a website
-* Censys:  Assessing attack surface for internet connected devices
-* IntelligenceX:   Search Tor, I2P, data leaks, domains, and emails
-* Packet Storm Security:   Browse latest vulnerabilities and exploits
-* SearchCode:  Search 75 billion lines of code from 40 million projects
+* Worldcam:  Webcam
+* ZoomEye: Gather information about targets
 
 
 #### Interview Prep:
@@ -782,115 +1153,113 @@ This is an ongoing compilation of resources we have found helpful and tools we u
 If you're new to InfoSec and are looking for a concentrated list of resources to get started, check out [Getting into InfoSec and Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity).
 
 ## Table of Contents
-- [Resources](#resources)</summary>
-* [Information Security Certifications](#information-security-certifications)
-* [Books](#books)
-* [Lockpicking Resources](#lockpicking-resources)
-* [Social Engineering Articles](#social-engineering-articles)
-* [Conferences](#conferences)
-* [Online Videos](#online-vidoes)
-* [Free Online Courses](#free-online-courses)
-* [Training Resources](#training-resources)
-* [Hacking References And Cheatsheets](#hacking-references-and-cheatsheets)
-* [Training And Practice Exercises](#training-and-practice-exercises)
-* [Informative Youtube Channels](#informative-youtube-channels)
-* [Illustrations and Presentations](#illustrations-and-presentations)
-* [Clearnet Exploit Databases](#clearnet-exploit-databases)
-* [Awesome Master Lists](#awesome-master-lists)
-* [Knowledge Bases](#knowledge-bases)
-
-- [OSINT Tools Used](#osint-tools-used)
-* [General OSINT Tools](#general-osint-tools)
-* [Crypto OSINT Search](#crypto-osint-search)
-* [Government Record Search](#government-record-search)
-* [National Search Engines](#national-search-engines)
-* [Meta Search](#meta-search)
-* [Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
-* [Similar Sites Search](#similar-sites-search)
-* [Document and Slides Search](#document-and-slides-search)
-* [Pastebin Search](#pastebin-search)
-* [Code Search](#code-search)
-* [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general-social-media-tools)
-* [Twitter Search](#twitter-search)
-* [Facebook Search](#facebook-search)
-* [Instagram Search](#instagram-search)
-* [Pinterest Search](#pinterest-search)
-* [Reddit Search](#reddit-search)
-* [VKontakte Search](#vkontakte-search)
-* [LinkedIn](#linkedin)
-* [Blog Search](#blog-search)
-* [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
-* [Username Check](#username-check)
-* [Personel Investigations](#personel-investigations)
-* [E-mail Search / E-mail Check](#e-mail-search--e-mail-check)
-* [Phone Number Research](#phone-number-research)
-* [Company Research](#company-research)
-* [Domain and IP Research](#domain-and-ip-research)
-* [Keywords Discovery and Research](#keywords-discovery-and-research)
-* [Web History and Website Capture](#web-history-and-website-capture)
-* [Language Tools](#language-tools)
-* [Image Search](#image-search)
-* [Image Analysis](#image-analysis)
-* [Data and Statistics](#data-and-statistics)
-* [Web Monitoring](#web-monitoring)
-* [OCR Tools](#ocr-tools)
-* [Collaboration and Project Management](#collaboration-and-project-management)
-* [Communication Tools](#communication-tools)
-* [Calendars and Scheduling](#calendars-and-scheduling)
-* [Mind Mapping, Concept Mapping and Idea Generation Tools](#mind-mapping-concept-mapping-and-idea-generation-tools)
-* [Social Network Analysis](#social-network-analysis)
-* [DNS Search And Enumeration](#dns-search-and-enumeration)
-* [Network Reconnaissance Tools](#network-reconnaissance-tools)
-
 - [Exploitation Enumeration And Data Recovery Tools](#exploitation-enumeration-and-data-recovery-tools)
-* [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
-* [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
-* [Network Vulnerability Scanners](#network-vulnerability-scanners)
-* [Web Vulnerability Scanners](#web-vulnerability-scanners)
-* [Web Exploitation](#web-exploitation)
-* [Network Tools](#network-tools)
-* [Protocol Analyzers and Sniffers](#protocol-analyzers-and-sniffers)
-* [Proxies and MITM Tools](#proxies-and-mitm-tools)
-* [Wireless Network Tools](#wireless-network-tools)
-* [Transport Layer Security Tools](#transport-layer-security-tools)
-* [Cryptography](#cryptography)
-* [Post-Exploitation](#post-exfiltration)
-* [Exfiltration Tools](#exfiltration-tools)
-* [Static Analyzers](#static-analyzers)
-* [Dynamic Analyzers](#dynamic-analyzers)
-* [Hex Editors](#hex-editors)
-* [File Format Analysis Tools](#file-format-analysis-tools)
-* [Anti-Virus Evasion Tools](#anti-virus-evasion-tools)
-* [Hash Cracking Tools](#hash-cracking-tools)
-* [Windows Utilities](#windows-utilities)
-* [GNU Linux Utilities](#gnu-linux-utilities)
-* [macOS Utilities](#macos-utilities)
-* [Social Engineering Tools](#social-engineering-tools)
-* [Anonymity Tools](#anonymity-tools)
-* [Reverse Engineering Tools](#reverse-engineering-tools)
-* [Side-channel Tools](#side-channel-tools)
-* [Forensic Tools](#forensic-tools)
-* [Memory Analysis](#memory-analysis)
-* [Memory Imaging Tools](#memory-imaging-tools)
-* [Incident Response](#incident-response)
-* [Honeypot Tools](#honeypot-tools)
-* [Monitoring and IDS-IPS](#monitoring-and-ids-ips)
-* [Physical Tools](#physical-tools)
+- [OSINT Tools Used](#osint-tools-used)
+- [Resources](#resources)</summary>
 * [Adversary Emulation](#adversary-emulation)
 * [All in one Incident Response Tools](#all-in-one-incident-response-tools)
+* [Anonymity Tools](#anonymity-tools)
+* [Anti-Virus Evasion Tools](#anti-virus-evasion-tools)
+* [Awesome Master Lists](#awesome-master-lists)
+* [Blog Search](#blog-search)
+* [Books](#books)
+* [Calendars and Scheduling](#calendars-and-scheduling)
+* [Clearnet Exploit Databases](#clearnet-exploit-databases)
+* [Code Search](#code-search)
+* [Collaboration and Project Management](#collaboration-and-project-management)
+* [Communication Tools](#communication-tools)
 * [Communities](#communities)
+* [Company Research](#company-research)
+* [Conferences](#conferences)
+* [Crypto OSINT Search](#crypto-osint-search)
+* [Cryptography](#cryptography)
+* [Data and Statistics](#data-and-statistics)
 * [Disk Image Creation Tools](#disk-image-creation-tools)
+* [DNS Search And Enumeration](#dns-search-and-enumeration)
+* [Document and Slides Search](#document-and-slides-search)
+* [Domain and IP Research](#domain-and-ip-research)
+* [Dynamic Analyzers](#dynamic-analyzers)
+* [E-mail Search / E-mail Check](#e-mail-search--e-mail-check)
 * [Evidence Collection Tools](#evidence-collection-tools)
+* [Exfiltration Tools](#exfiltration-tools)
+* [Facebook Search](#facebook-search)
+* [File Format Analysis Tools](#file-format-analysis-tools)
+* [Forensic Tools](#forensic-tools)
+* [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
+* [Free Online Courses](#free-online-courses)
+* [General OSINT Tools](#general-osint-tools)
+* [GNU Linux Utilities](#gnu-linux-utilities)
+* [Government Record Search](#government-record-search)
+* [Hacking References And Cheatsheets](#hacking-references-and-cheatsheets)
+* [Hash Cracking Tools](#hash-cracking-tools)
+* [Hex Editors](#hex-editors)
+* [Honeypot Tools](#honeypot-tools)
+* [Illustrations and Presentations](#illustrations-and-presentations)
+* [Image Analysis](#image-analysis)
+* [Image Search](#image-search)
 * [Incident Management Tools](#incident-management-tools)
-* [Linux Forensics Distributions](#linux-forensics-distributions)
-* [Linux Evidence Collection](#linux-evidence-collection)
-* [Log Analysis Tools](#log-analysis-tools)
-* [OSX Evidence Collection](#osx-evidence-collection)
 * [Incident Response Playbooks](#playbooks)
+* [Incident Response](#incident-response)
+* [Information Security Certifications](#information-security-certifications)
+* [Informative Youtube Channels](#informative-youtube-channels)
+* [Instagram Search](#instagram-search)
+* [Keywords Discovery and Research](#keywords-discovery-and-research)
+* [Knowledge Bases](#knowledge-bases)
+* [Language Tools](#language-tools)
+* [LinkedIn](#linkedin)
+* [Linux Evidence Collection](#linux-evidence-collection)
+* [Linux Forensics Distributions](#linux-forensics-distributions)
+* [Lockpicking Resources](#lockpicking-resources)
+* [Log Analysis Tools](#log-analysis-tools)
+* [macOS Utilities](#macos-utilities)
+* [Memory Analysis](#memory-analysis)
+* [Memory Imaging Tools](#memory-imaging-tools)
+* [Meta Search](#meta-search)
+* [Mind Mapping, Concept Mapping and Idea Generation Tools](#mind-mapping-concept-mapping-and-idea-generation-tools)
+* [Monitoring and IDS-IPS](#monitoring-and-ids-ips)
+* [Multi-paradigm Frameworks](#multi-paradigm-frameworks)
+* [National Search Engines](#national-search-engines)
+* [Network Reconnaissance Tools](#network-reconnaissance-tools)
+* [Network Tools](#network-tools)
+* [Network Vulnerability Scanners](#network-vulnerability-scanners)
+* [OCR Tools](#ocr-tools)
+* [Online Videos](#online-vidoes)
+* [OSX Evidence Collection](#osx-evidence-collection)
+* [Pastebin Search](#pastebin-search)
+* [Penetration Testing OS Distributions](#penetration-testing-os-distributions)
+* [Personel Investigations](#personel-investigations)
+* [Phone Number Research](#phone-number-research)
+* [Physical Tools](#physical-tools)
+* [Pinterest Search](#pinterest-search)
+* [Post-Exploitation](#post-exfiltration)
 * [Process Dump Tools](#process-dump-tools)
+* [Protocol Analyzers and Sniffers](#protocol-analyzers-and-sniffers)
+* [Proxies and MITM Tools](#proxies-and-mitm-tools)
+* [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general-social-media-tools)
+* [Reddit Search](#reddit-search)
+* [Reverse Engineering Tools](#reverse-engineering-tools)
 * [Sandboxing/reversing tools](#sandboxingreversing-tools)
+* [Side-channel Tools](#side-channel-tools)
+* [Similar Sites Search](#similar-sites-search)
+* [Social Engineering Articles](#social-engineering-articles)
+* [Social Engineering Tools](#social-engineering-tools)
+* [Social Network Analysis](#social-network-analysis)
+* [Static Analyzers](#static-analyzers)
 * [Timeline tools](#timeline-tools)
+* [Training And Practice Exercises](#training-and-practice-exercises)
+* [Training Resources](#training-resources)
+* [Transport Layer Security Tools](#transport-layer-security-tools)
+* [Twitter Search](#twitter-search)
+* [Username Check](#username-check)
+* [Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
+* [VKontakte Search](#vkontakte-search)
+* [Web Exploitation](#web-exploitation)
+* [Web History and Website Capture](#web-history-and-website-capture)
+* [Web Monitoring](#web-monitoring)
+* [Web Vulnerability Scanners](#web-vulnerability-scanners)
 * [Windows Evidence Collection](#windows-evidence-collection)
+* [Windows Utilities](#windows-utilities)
+* [Wireless Network Tools](#wireless-network-tools)
 * [Other](#other)
 
 - [License](#license)
@@ -900,7 +1269,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 ### Resources
 
 #### Information Security Certifications
-
+* [Check this giant Excel resources](https://docs.google.com/spreadsheets/d/1wIJoYyepK-QgNm0HzYyApsY2BYeuQIr_/edit#gid=1808112506)
 * [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 * [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
 * [Certified Penetration Testing Engineer (CPTE)](https://www.mile2.com/penetration-testing-engineer-outline/)
@@ -919,6 +1288,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 
 #### Books
+* [recommended readings](http://dfir.org/?q=node/8)
 * A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security
 * A Short Course on Computer Viruses
 * AVIEN Malware Defense Guide for the Enterprise
