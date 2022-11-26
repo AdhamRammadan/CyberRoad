@@ -1,203 +1,131 @@
-# CyberRoad
 
 LABS FOR REDTEAM & BLUETEAM:
-http://ctf.komodosec.com/               CTF Komodo Security:
-http://overthewire.org              OverTheWire
-http://overthewire.org              OverTheWire:
-http://rootinjail.com               Root in Jail
-http://rootinjail.com               Root in Jail:
-http://www.wechall.net              WeChall
-http://www.wechall.net              WeChall:
-https://attackdefense.com               Attack-Defense
-https://attackdefense.com               Attack-Defense:
-https://cmdchallenge.com                CMD Challenge
-https://cmdchallenge.com                CMD Challenge:
-https://cryptohack.org/             CryptoHack
-https://cryptohack.org/             CryptoHack:
-https://cryptopals.com              The Cryptopals Crypto Challenges
-https://cryptopals.com              The Cryptopals Crypto Challenges:
-https://ctf.hacker101.com               Hacker101
-https://ctf.hacker101.com               Hacker101 :
-https://ctf.komodosec.com               CTF Komodo Security
-https://dfirdiva.com/               DFIR Diva:
-https://echoctf.red/                EchoCTF:
-https://exploit.education               Exploitation Education
-https://exploit.education               Exploitation Education:
-https://hackaflag.com.br/               Hackaflag BR
-https://hackaflag.com.br/               Hackaflag BR:
-https://hackersec.com/ctf/              Hacker Security:
-https://hacking-lab.com/                Hacking-Lab
-https://hacking-lab.com/                Hacking-Lab:
-https://hstrike.com             HSTRIKE
-https://hstrike.com             HSTRIKE:
-https://immersivelabs.com               ImmersiveLabs
-https://immersivelabs.com               ImmersiveLabs:
-https://lab.pentestit.ru                PentestIT LAB
-https://lab.pentestit.ru                Practice.htmlPentestIT LAB:
-https://letsdefend.io/              LetsDefen
-https://letsdefend.io/              LetsDefend:
-https://lnkd.in/d29qKMZB                PWNABLE:
-https://lnkd.in/d38GevhG                Practical Pentest Labs:
-https://lnkd.in/d4NSxUJG                OverTheWire:
-https://lnkd.in/dAcHDRA3                Google CTF:
-https://lnkd.in/daGZxg_E                BTLO:
-https://lnkd.in/dDaT4w8T                Splunk Training:
-https://lnkd.in/djcnspnm                Mossé Cyber Security Institute:
-https://lnkd.in/dJi4Cr5p                Microsoft Learn:
-https://lnkd.in/dkxBZj24                SANS Challenger:
-https://lnkd.in/dkyNGP4q                SmashTheStack:
-https://lnkd.in/dmMcBd6H                INE:
-https://lnkd.in/dmYAsyG2                Penetration Testing Practice Labs:
-https://lnkd.in/dNVfM4rR                Hacksplaining:
-https://lnkd.in/dpZyUYwk                TCM Security:
-https://lnkd.in/dQEVqqQu                PortSwigger Web Security Academy:
-https://lnkd.in/dqY8CtUd                Zenk-Security:
-https://lnkd.in/dUYH7Bm9                NewbieContest:
-https://lnkd.in/dVcmjEw8                Cyberdefenders
-https://lnkd.in/dVdJ3q3d                Capture The Talent Academy:
-https://lnkd.in/dVZ2aqcp                Cyberdefenders:
-https://lnkd.in/dYmuvdSy                CSI Linux:
-https://lnkd.in/dzKWdZad                RangeForce:
-https://lnkd.in/e46drbz8                Google CTF
-https://lnkd.in/e5TAMawK                SANS Challenger
-https://lnkd.in/e6wVANYd                Penetration Testing Practice Labs
-https://lnkd.in/eAB5CSTA                Hacksplaining
-https://lnkd.in/eMEwBJzn                PWNABLE
-https://lnkd.in/esq9Yuv5                Practical Pentest Labs
-https://lnkd.in/eVn9rP9p                SmashTheStack
-https://lnkd.in/ewBk6fU5                NewbieContest
-https://lnkd.in/ewJ5rNx2                Zenk-Security
-https://lnkd.in/ex7R-C-e                Hacker Security
-https://pentesterlab.com                Pentestlab
-https://pentesterlab.com                Pentestlab:
-https://picoctf.com             PicoCTF
-https://picoctf.com             PicoCTF:
-https://tryhackme.com               Try Hack Me
-https://tryhackme.com               Try Hack Me:
-https://w3challs.com                W3Challs
-https://w3challs.com                W3Challs:
-https://www.cybrary.it/             Cybrary:
-https://www.hackthebox.com              HackTheBox
-https://www.hackthebox.com              HackTheBox:
-https://www.hackthis.co.uk              Hackthis
-https://www.hackthis.co.uk              Hackthis:
-https://www.root-me.org             Root-Me
-https://www.root-me.org             Root-Me:
-https://www.tracelabs.org/              TraceLabs:
-https://www.vulnhub.com             Vulnhub
-https://www.vulnhub.com             Vulnhub:
-https://attackdefense.com           Attack-Defense
-https://ctf.komodosec.com           CTF Komodo Security
-https://cryptohack.org/         CryptoHack
-https://cmdchallenge.com            CMD Challenge
-https://exploit.education           Exploitation Education
-https://lnkd.in/e46drbz8            Google CTF
-https://www.hackthebox.com          HackTheBox
-https://www.hackthis.co.uk          Hackthis
-https://lnkd.in/eAB5CSTA            Hacksplaining
-https://ctf.hacker101.com           Hacker101
-https://lnkd.in/ex7R-C-e            Hacker Security
-https://hacking-lab.com/            Hacking-Lab
-https://hstrike.com         HSTRIKE
-https://immersivelabs.com           ImmersiveLabs
-https://lnkd.in/ewBk6fU5            NewbieContest
-http://overthewire.org              OverTheWire
-https://lnkd.in/esq9Yuv5            Practical Pentest Labs
-https://pentesterlab.com            Pentestlab
-https://hackaflag.com.br/           Hackaflag BR
-https://lnkd.in/e6wVANYd            Penetration Testing Practice Labs
-https://lab.pentestit.ru            PentestIT LAB
-https://picoctf.com         PicoCTF
-https://lnkd.in/eMEwBJzn            PWNABLE
-https://www.root-me.org         Root-Me
-http://rootinjail.com               Root in Jail
-https://lnkd.in/e5TAMawK            SANS Challenger
-https://lnkd.in/eVn9rP9p            SmashTheStack
-https://cryptopals.com          The Cryptopals Crypto Challenges
-https://tryhackme.com           Try Hack Me
-https://www.vulnhub.com         Vulnhub
-https://w3challs.com            W3Challs
-http://www.wechall.net              WeChall
-https://lnkd.in/ewJ5rNx2            Zenk-Security
-https://lnkd.in/dVcmjEw8            Cyberdefenders
-https://letsdefend.io/          LetsDefen
-
-https://lnkd.in/gCEsVjdn
-https://lnkd.in/gG-7Zk92
-https://lnkd.in/gfbXWcnN
-https://lnkd.in/gW_Y4Gcn
-https://lnkd.in/gDG49TsR
-https://lnkd.in/gRy52wVj
-https://lnkd.in/gQVTmfzw
-https://lnkd.in/g2asuU6E
-https://lnkd.in/g3ErbVWs
-https://lnkd.in/gi89dqnp
+[CTF Komodo Security:](http://ctf.komodosec.com/)
+[Attack-Defense](https://attackdefense.com)
+[BTLO:](https://lnkd.in/daGZxg_E)
+[Capture The Talent Academy:](https://lnkd.in/dVdJ3q3d)
+[CMD Challenge](https://cmdchallenge.com)
+[CryptoHack](https://cryptohack.org/)
+[CSI Linux:](https://lnkd.in/dYmuvdSy)
+[CTF Komodo Security](https://ctf.komodosec.com)
+[Cyberdefenders](https://lnkd.in/dVcmjEw8)
+[Cybrary:](https://www.cybrary.it/)
+[DFIR Diva:](https://dfirdiva.com/)
+[EchoCTF:](https://echoctf.red/)
+[Exploitation Education](https://exploit.education)
+[Google CTF](https://lnkd.in/e46drbz8)
+[Hackaflag BR](https://hackaflag.com.br/)
+[Hacker Security](https://lnkd.in/ex7R-C-e)
+[Hacker101](https://ctf.hacker101.com)
+[Hacking-Lab](https://hacking-lab.com/)
+[Hacksplaining](https://lnkd.in/eAB5CSTA)
+[HackTheBox](https://www.hackthebox.com)
+[Hackthis](https://www.hackthis.co.uk)
+[HSTRIKE](https://hstrike.com)
+[ImmersiveLabs](https://immersivelabs.com)
+[INE:](https://lnkd.in/dmMcBd6H)
+[LetsDefen](https://letsdefend.io/)
+[Microsoft Learn:](https://lnkd.in/dJi4Cr5p)
+[Mossé Cyber Security Institute:](https://lnkd.in/djcnspnm)
+[NewbieContest](https://lnkd.in/ewBk6fU5)
+[OverTheWire:](https://lnkd.in/d4NSxUJG)
+[Penetration Testing Practice Labs](https://lnkd.in/e6wVANYd)
+[PentestIT LAB](https://lab.pentestit.ru)
+[Pentestlab](https://pentesterlab.com)
+[PicoCTF](https://picoctf.com)
+[PortSwigger Web Security Academy:](https://lnkd.in/dQEVqqQu)
+[Practical Pentest Labs](https://lnkd.in/esq9Yuv5)
+[PWNABLE](https://lnkd.in/eMEwBJzn)
+[RangeForce:](https://lnkd.in/dzKWdZad)
+[Root in Jail](http://rootinjail.com)
+[Root-Me](https://www.root-me.org)
+[SANS Challenger](https://lnkd.in/e5TAMawK)
+[SmashTheStack](https://lnkd.in/eVn9rP9p)
+[Splunk Training:](https://lnkd.in/dDaT4w8T)
+[TCM Security:](https://lnkd.in/dpZyUYwk)
+[The Cryptopals Crypto Challenges](https://cryptopals.com)
+[TraceLabs:](https://www.tracelabs.org/)
+[Try Hack Me](https://tryhackme.com)
+[Vulnhub](https://www.vulnhub.com)
+[W3Challs](https://w3challs.com)
+[WeChall](http://www.wechall.net)
+[Zenk-Security](https://lnkd.in/)
+[Other Labs](https://lnkd.in/gCEsVjdn)
+[Other Labs](https://lnkd.in/gG-7Zk92)
+[Other Labs](https://lnkd.in/gfbXWcnN)
+[Other Labs](https://lnkd.in/gW_Y4Gcn)
+[Other Labs](https://lnkd.in/gDG49TsR)
+[Other Labs](https://lnkd.in/gRy52wVj)
+[Other Labs](https://lnkd.in/gQVTmfzw)
+[Other Labs](https://lnkd.in/g2asuU6E)
+[Other Labs](https://lnkd.in/g3ErbVWs)
+[Other Labs](https://lnkd.in/gi89dqnp)
 
 Bug Bounty Preperation:
-https://lnkd.in/gNVbdvsH
-https://lnkd.in/g-sqridQ
-https://lnkd.in/gDkRwJfE
-https://lnkd.in/gJukYSvD
-https://lnkd.in/gaHDGp_S
-https://lnkd.in/gDJMZfFW
-https://lnkd.in/g6Gu4bW2
-https://lnkd.in/gUQrxSpS
-https://lnkd.in/gjusRF_v
-https://lnkd.in/gDJW_c_8
-https://lnkd.in/gjdPHTYP
-https://lnkd.in/gmQPDw-e
-https://lnkd.in/gDJ9VvR9
-https://lnkd.in/gtdPFmi5
-https://lnkd.in/gECMFYGK
-https://lnkd.in/gJVHyway
+[Prep](https://lnkd.in/gNVbdvsH)
+[Prep](https://lnkd.in/g-sqridQ)
+[Prep](https://lnkd.in/gDkRwJfE)
+[Prep](https://lnkd.in/gJukYSvD)
+[Prep](https://lnkd.in/gaHDGp_S)
+[Prep](https://lnkd.in/gDJMZfFW)
+[Prep](https://lnkd.in/g6Gu4bW2)
+[Prep](https://lnkd.in/gUQrxSpS)
+[Prep](https://lnkd.in/gjusRF_v)
+[Prep](https://lnkd.in/gDJW_c_8)
+[Prep](https://lnkd.in/gjdPHTYP)
+[Prep](https://lnkd.in/gmQPDw-e)
+[Prep](https://lnkd.in/gDJ9VvR9)
+[Prep](https://lnkd.in/gtdPFmi5)
+[Prep](https://lnkd.in/gECMFYGK)
+[Prep](https://lnkd.in/gJVHyway)
 
 NIST 800 - 61 Rev 2
-https://lnkd.in/g7bnQF9R        - Computer Security Incident Handling Guide
-https://lnkd.in/gkw8MtKk        SANS Incident Handler's Handbook   
-https://lnkd.in/g3tnhRTg        FEMA - Planning Considerations for Cyber Incidents [Draft] 
-https://lnkd.in/gJvwvX7B        FEMA - Developing and Maintaining Emergency Operations Plans Comprehensive Preparedness Guide (CPG) 101 
-https://lnkd.in/guy64NSX        National Cyber Security Centre (UK) - Incident Management Guidance 
-https://lnkd.in/g4CnnQmG  
-https://lnkd.in/gb9kAKEC     Cyber Security Agency of Singapore (CSA)   
-https://lnkd.in/g3_4kMbw        Cyber Security Coalition - Cybersecurity Incident Management Guide 
-https://lnkd.in/gM3Ak4Nq        CREST - Cyber Security Incident Response Guide 
+[- Computer Security Incident Handling Guide](https://lnkd.in/g7bnQF9R)
+[SANS Incident Handler's Handbook   ](https://lnkd.in/gkw8MtKk)
+[FEMA - Planning Considerations for Cyber Incidents [Draft] ](https://lnkd.in/g3tnhRTg)
+[FEMA - Developing and Maintaining Emergency Operations Plans Comprehensive Preparedness Guide (CPG) 101 ](https://lnkd.in/gJvwvX7B)
+[National Cyber Security Centre (UK) - Incident Management Guidance ](https://lnkd.in/guy64NSX)
+[Cyber Security Agency of Singapore (CSA)   ](https://lnkd.in/gb9kAKEC)
+[Cyber Security Coalition - Cybersecurity Incident Management Guide ](https://lnkd.in/g3_4kMbw)
+[CREST - Cyber Security Incident Response Guide ](https://lnkd.in/gM3Ak4Nq)
+[NIST](https://lnkd.in/g4CnnQmG)  
 
 Code Reviews
-https://lnkd.in/dy2U6-7J
-https://lnkd.in/dXSfnZ5D
-https://lnkd.in/dyxwJ_SG
-https://lnkd.in/dneAdfBs 
-https://lnkd.in/dqKUsJ7Z
+[Resource](https://lnkd.in/dy2U6-7J)
+[Resource](https://lnkd.in/dXSfnZ5D)
+[Resource](https://lnkd.in/dyxwJ_SG)
+[Resource](https://lnkd.in/dneAdfBs) 
+[Resource](https://lnkd.in/dqKUsJ7Z)
 
 
 News:
-https://cisoseries.com/     CISO Series
-https://lnkd.in/eF8ixh46        The Daily Swig
-https://threatpost.com/     Threatpost
-https://lnkd.in/evjYmhhm        CyberSecurityNews
-https://lnkd.in/e6bMxSbp        CyWare
-https://www.schneier.com/       Schneier
-https://lnkd.in/e-ed97KU        SANS Newsbites
-https://thehackernews.com/      TheHackerNews
-https://isc.sans.edu/       SANS ISC
-https://lnkd.in/eAQKdrrA        BleepingComputer
-https://lnkd.in/etwyTgpg        Malwarebytes
-https://www.csoonline.com/      CSO Online
-https://lnkd.in/eHgYe-wx        CyberScoop
-https://lnkd.in/eeVDQWBv        Dark Reading
-https://lnkd.in/e5ReHVK5        Infosecurity
-https://lnkd.in/eHbSJK8U        Krebs on Security
-https://lnkd.in/e_xuezBK        Naked Security
-https://lnkd.in/e47s62Qp        Talos
-https://therecord.media/        The Record
-https://lnkd.in/epp_Rqg8        Sophos News
-https://thedfirreport.com/      The DFIR Report
-https://lnkd.in/e3RnByHB        CISA Known Exploited Vulnerabilities
-https://lnkd.in/ezyrP2Ff        AlienVault TI Feed
-https://virusshare.com/     Virus Share
-https://www.greynoise.io/       GreyNoise
-https://threatfeeds.io/     Threat Feeds
-https://lnkd.in/edTsrmvY        Mandiant TI
+[CISO Series](https://cisoseries.com/)     
+[The Daily Swig](https://lnkd.in/eF8ixh46)        
+[Threatpost](https://threatpost.com/)     
+[CyberSecurityNews](https://lnkd.in/evjYmhhm)        
+[CyWare](https://lnkd.in/e6bMxSbp)        
+[Schneier](https://www.schneier.com/)       
+[SANS Newsbites](https://lnkd.in/e-ed97KU)        
+[TheHackerNews](https://thehackernews.com/)      
+[SANS ISC](https://isc.sans.edu/)       
+[BleepingComputer](https://lnkd.in/eAQKdrrA)        
+[Malwarebytes](https://lnkd.in/etwyTgpg)        
+[CSO Online](https://www.csoonline.com/)      
+[CyberScoop](https://lnkd.in/eHgYe-wx)        
+[Dark Reading](https://lnkd.in/eeVDQWBv)        
+[Infosecurity](https://lnkd.in/e5ReHVK5)        
+[Krebs on Security](https://lnkd.in/eHbSJK8U)        
+[Naked Security](https://lnkd.in/e_xuezBK)        
+[Talos](https://lnkd.in/e47s62Qp)        
+[The Record](https://therecord.media/)        
+[Sophos News](https://lnkd.in/epp_Rqg8)        
+[The DFIR Report](https://thedfirreport.com/)      
+[CISA Known Exploited Vulnerabilities](https://lnkd.in/e3RnByHB)        
+[AlienVault TI Feed](https://lnkd.in/ezyrP2Ff)        
+[Virus Share](https://virusshare.com/)     
+[GreyNoise](https://www.greynoise.io/)       
+[Threat Feeds](https://threatfeeds.io/)     
+[Mandiant TI](https://lnkd.in/edTsrmvY)        
 This Week in 4n6:                                           DFIR updates
 The Hacker News:                                        Cybersecurity news
 Risky Biz:                                          Analysis of big cyber stories
@@ -224,193 +152,193 @@ Krebs On Security:                                          Cybersecurity journa
 Gov Info Security:                                          Governmental cybersecurity news
 
 Python:
-Course          Learn Python 3 From Scratch                     
-Ebook           A Byte of Python
-Ebook           Automate the Boring Stuff with Python
-Ebook           Beyond the Basic Stuff with Python
-Ebook           Cracking Codes With Python
-Ebook           Dive Into Python 3
-Ebook           Full Stack Python
-Ebook           Learn Python, Break Python
-Ebook           The Big Book of Small Python Projects
-Ebook           The Coder's Apprentice
-Ebook           Think Python
-Ebook           Think Python 2e
-Platform            Beginner's Guide to Python, Official Wiki
-Platform            freeCodeCamp
-Platform            Google's Python Class
-Platform            Microsoft's Introduction to Python Course
-Platform            Practice Python
-Platform            Python for Everybody Specialization, Coursera
-Platform            Python Like You Mean It
-Platform            Python Principles
-Platform            Python Tutorial For Beginners, Edureka
-Platform            Real Python
-Platform            The Python Guru
-Video           Harvard's CS50 Python 
-Videos          Python Tutorial for Beginners, Telusko
-https://lnkd.in/eh8kXmQX        Googles python course - 
-https://lnkd.in/ejnfdqfv        Microsoft's Introduction to Python Course - 
-https://lnkd.in/eyFJ86S2        Introduction to Python Programming on Udemy - 
-https://lnkd.in/eUPRFh3Z        Cyber insecurity 13-part free course - 
-https://lnkd.in/enuvhMwx        NetworkChuck YouTube Python Course - 
-https://lnkd.in/e7MR_74b        Python for Data Science, AI & Development - 
-https://lnkd.in/e-9hRdAg        Learn Python 3 for Total Beginners on Udemy - 
-https://lnkd.in/eSQTfe99        Learn Python - Full Course for Beginners by freeCodeCamp - 
-https://lnkd.in/e7ukFQnr        LearnPython free course - 
-https://lnkd.in/evNjQPwY        Learn Python with Programming with Mosh - 
+[Course](Learn Python 3 From Scratch )
+[Ebook](A Byte of Python)
+[Ebook](Automate the Boring Stuff with Python)
+[Ebook](Beyond the Basic Stuff with Python)
+[Ebook](Cracking Codes With Python)
+[Ebook](Dive Into Python 3)
+[Ebook](Full Stack Python)
+[Ebook](Learn Python, Break Python)
+[Ebook](The Big Book of Small Python Projects)
+[Ebook](The Coder's Apprentice)
+[Ebook](Think Python)
+[Ebook](Think Python 2e)
+[Platform](Beginner's Guide to Python, Official Wiki)
+[Platform](freeCodeCamp)
+[Platform](Google's Python Class)
+[Platform](Microsoft's Introduction to Python Course)
+[Platform](Practice Python)
+[Platform](Python for Everybody Specialization, Coursera)
+[Platform](Python Like You Mean It)
+[Platform](Python Principles)
+[Platform](Python Tutorial For Beginners, Edureka)
+[Platform](Real Python)
+[Platform](The Python Guru)
+[Video](Harvard's CS50 Python )
+[Videos](Python Tutorial for Beginners, Telusko)
+[Googles python course - ](https://lnkd.in/eh8kXmQX)        
+[Microsoft's Introduction to Python Course - ](https://lnkd.in/ejnfdqfv)        
+[Introduction to Python Programming on Udemy - ](https://lnkd.in/eyFJ86S2)        
+[Cyber insecurity 13-part free course - ](https://lnkd.in/eUPRFh3Z)        
+[NetworkChuck YouTube Python Course - ](https://lnkd.in/enuvhMwx)        
+[Python for Data Science, AI & Development - ](https://lnkd.in/e7MR_74b)        
+[Learn Python 3 for Total Beginners on Udemy - ](https://lnkd.in/e-9hRdAg)        
+[Learn Python - Full Course for Beginners by freeCodeCamp - ](https://lnkd.in/eSQTfe99)        
+[LearnPython free course - ](https://lnkd.in/e7ukFQnr)        
+[Learn Python with Programming with Mosh - ](https://lnkd.in/evNjQPwY)        
 
 
 Free Certs:
-https://lnkd.in/gS2MQ-5d   NSE 1,2 & 3
-https://lnkd.in/gS4ncPmX   Introduction to Cybersecurity
-https://lnkd.in/gSQqNY9h   Cybersecurity Essentials
-https://lnkd.in/g6JMDGGe   Networking Essentials
-https://lnkd.in/garK_Mbi   Android Bug Bounty Hunting: Hunt Like a Rat
-https://lnkd.in/gckkuxUg   Ethical Hacking Essentials (EHE)
-https://lnkd.in/gJ8CCZMy   Website Hacking Techniques
-https://lnkd.in/gx2nAjPX   Digital Forensics Essentials (DFE)
-https://lnkd.in/gU8V32sK   Network Defense Essentials (NDE)
-https://lnkd.in/gmnCSQsV   Introduction to Dark Web, Anonymity, and Cryptocurrency
-https://lnkd.in/gQiYJdTv   Certified in Cybersecurity℠ - CC
-https://lnkd.in/gjVduQen   20+ Free AWS Certs Related to Cybersecurity
+[NSE 1,2 & 3](https://lnkd.in/gS2MQ-5d)   
+[Introduction to Cybersecurity](https://lnkd.in/gS4ncPmX)   
+[Cybersecurity Essentials](https://lnkd.in/gSQqNY9h)   
+[Networking Essentials](https://lnkd.in/g6JMDGGe)   
+[Android Bug Bounty Hunting: Hunt Like a Rat](https://lnkd.in/garK_Mbi)   
+[Ethical Hacking Essentials (EHE)](https://lnkd.in/gckkuxUg)   
+[Website Hacking Techniques](https://lnkd.in/gJ8CCZMy)   
+[Digital Forensics Essentials (DFE)](https://lnkd.in/gx2nAjPX)   
+[Network Defense Essentials (NDE)](https://lnkd.in/gU8V32sK)   
+[Introduction to Dark Web, Anonymity, and Cryptocurrency](https://lnkd.in/gmnCSQsV)   
+[Certified in Cybersecurity℠ - CC](https://lnkd.in/gQiYJdTv)   
+[Here](https://lnkd.in/gjVduQen)   20+ Free AWS Certs Related to Cybersecurity
 
 Certs Prep:
-https://lnkd.in/dTAzdcKV   (Security +, CEH, PenTest+, OSWP, OSCP, eJPT, eMAPT)
-https://lnkd.in/eYxih4tT The Security Certification Roadmap by Paul Jerimy
-https://lnkd.in/eBtDaBT4 How to Analyze a Cybersecurity Certification site by Meghan Jacquot, GCTI 
-https://lnkd.in/egmcyfVw  Go further with Joas A Santos PenTest Certification RoadMap
-https://lnkd.in/eisqe3tZ  Learning pathways and Cloud Certifications by Travis DeForge 
+[Here](https://lnkd.in/dTAzdcKV)   (Security +, CEH, PenTest+, OSWP, OSCP, eJPT, eMAPT)
+[The Security Certification Roadmap by Paul Jerimy](https://lnkd.in/eYxih4tT) 
+[How to Analyze a Cybersecurity Certification site by Meghan Jacquot, GCTI ](https://lnkd.in/eBtDaBT4) 
+[Go further with Joas A Santos PenTest Certification RoadMap](https://lnkd.in/egmcyfVw)  
+[Learning pathways and Cloud Certifications by Travis DeForge ](https://lnkd.in/eisqe3tZ)  
 Prep your certs with Marcelo Vázquez (Aka. S4vitar) for Multiple certifications
-https://lnkd.in/eCuEwkGN HTB Machines 
-https://lnkd.in/ex3zMYR7  Study Plan 
-https://lnkd.in/e2cvZt9K   Rana Khalil and Ippsec for the OSCP
-https://ippsec.rocks/?#  
+[HTB Machines ](https://lnkd.in/eCuEwkGN) 
+[Study Plan ](https://lnkd.in/ex3zMYR7)  
+[Rana Khalil and Ippsec for the OSCP](https://lnkd.in/e2cvZt9K)   
+[Here](https://ippsec.rocks/?#)  
 
 Important Certs:
-https://www.eccouncil.org/programs/certified-ethical-hacker-ceh                                                    Certified Ethical Hacker    
-https://www.isc2.org/Certifications/CISSP)                                                  Certified Information Systems Security Professional (CISSP) 
-https://www.mile2.com/penetration-testing-engineer-outline                                                      Certified Penetration Testing Engineer (CPTE)   
-https://www.comptia.org/certifications/security)                                                    CompTIA Security+   
-https://www.giac.org/certification/security-essentials-gsec)                                                    GIAC Security Essentials (GSEC) 
-https://home.pearsonvue.com/kali)                                                   Kali Linux Certified Professional (KLCP)    
-https://www.offensive-security.com/ctp-osce                                                    Offensive Security Certified Expert (OSCE)  
-https://www.offensive-security.com/pwk-oscp                                                    Offensive Security Certified Professional (OSCP)    
-https://www.offensive-security.com/awe-osee                                                    Offensive Security Exploitation Expert (OSEE)   
-https://www.offensive-security.com/awae-oswe                                                      Offensive Security Web Expert (OSWE)    
-https://www.offensive-security.com/wifu-oswp                                                      Offensive Security Wireless Professional (OSWP) 
-https://certifications.tcm-sec.com/pnpt                                                    Practical Network Penetration Tester (PNPT) 
-https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter             HTB Certified Bug Bounty Hunter (HTB BBH)   
-https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist       HTB Certified Penetration Testing Specialist (HTB CPTS) 
-https://elearnsecurity.com/product/ejpt-certification                                                    eLearnSecurity Junior Penetration Tester (eJPT) 
+[Certified Ethical Hacker ](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh)                                                    
+[Certified Information Systems Security Professional (CISSP) ](https://www.isc2.org/Certifications/CISSP))                                                  
+[Certified Penetration Testing Engineer (CPTE)   ](https://www.mile2.com/penetration-testing-engineer-outline)                                                      
+[CompTIA Security+   ](https://www.comptia.org/certifications/security))                                                    
+[GIAC Security Essentials (GSEC) ](https://www.giac.org/certification/security-essentials-gsec))                                                    
+[Kali Linux Certified Professional (KLCP)    ](https://home.pearsonvue.com/kali))                                                   
+[Offensive Security Certified Expert (OSCE)  ](https://www.offensive-security.com/ctp-osce)                                                    
+[Offensive Security Certified Professional (OSCP)    ](https://www.offensive-security.com/pwk-oscp)                                                    
+[Offensive Security Exploitation Expert (OSEE)   ](https://www.offensive-security.com/awe-osee)                                                    
+[Offensive Security Web Expert (OSWE)    ](https://www.offensive-security.com/awae-oswe)                                                      
+[Offensive Security Wireless Professional (OSWP) ](https://www.offensive-security.com/wifu-oswp)                                                      
+[Practical Network Penetration Tester (PNPT) ](https://certifications.tcm-sec.com/pnpt)                                                    
+[HTB Certified Bug Bounty Hunter (HTB BBH)   ](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)             
+[HTB Certified Penetration Testing Specialist (HTB CPTS) ](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)       
+[eLearnSecurity Junior Penetration Tester (eJPT) ](https://elearnsecurity.com/product/ejpt-certification)                                                    
 
 Reverse Engineering:
-https://www.begin.re/     Reverse Engineering for Beginners by Ophir Harpaz 
-https://lnkd.in/eUqUDdXS      Reverse Engineering for Everyone by Kevin Thomas My Technotalent
-https://lnkd.in/eHsdurZG      Reverse Engineering for beginners by Dennis Yurichev (available in many languages)
-https://lnkd.in/ebtKjS-W      Reverse Engineering 101 by 0x00 (with exercises)
+[Reverse Engineering for Beginners by Ophir Harpaz ](https://www.begin.re/)     
+[Reverse Engineering for Everyone by Kevin Thomas My Technotalent](https://lnkd.in/eUqUDdXS)      
+[Reverse Engineering for beginners by Dennis Yurichev (available in many languages)](https://lnkd.in/eHsdurZG)      
+[Reverse Engineering 101 by 0x00 (with exercises)](https://lnkd.in/ebtKjS-W)      
 
 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
-https://lnkd.in/eR3_ki-6      Malware Analysis In 5+ Hours - Full Course - Learn Practical Malware Analysis! by HuskyHacks
-https://lnkd.in/evyAhNWt      Malware Analysis – Mind Map by Thatintel
-https://lnkd.in/eHZFTSqp      Malware Analysis Tutorials: a Reverse Engineering Approach by Dr Xiang Fu
-https://lnkd.in/g-FWEH2H      Articles
-https://lnkd.in/gxAMBaFt      Articles
-https://lnkd.in/gS2hVzjX      Articles
-https://lnkd.in/gxrsNMEW      Articles
-https://lnkd.in/e7zzmh4V      Articles
+[Malware Analysis In 5+ Hours - Full Course - Learn Practical Malware Analysis! by HuskyHacks](https://lnkd.in/eR3_ki-6)      
+[Malware Analysis – Mind Map by Thatintel](https://lnkd.in/evyAhNWt)      
+[Malware Analysis Tutorials: a Reverse Engineering Approach by Dr Xiang Fu](https://lnkd.in/eHZFTSqp)      
+[Articles](https://lnkd.in/g-FWEH2H)      
+[Articles](https://lnkd.in/gxAMBaFt)      
+[Articles](https://lnkd.in/gS2hVzjX)      
+[Articles](https://lnkd.in/gxrsNMEW)      
+[Articles](https://lnkd.in/e7zzmh4V)      
 
 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗕𝗼𝗻𝘂𝘀
-https://lnkd.in/eCxGV2iP      Malware Analysis and Reverse Engineering courses by DFIR Diva
+[Malware Analysis and Reverse Engineering courses by DFIR Diva](https://lnkd.in/eCxGV2iP)      
 
 
 Arabic:
 Artificial Intelligence
-https://lnkd.in/dw2JkakR
+[Here](https://lnkd.in/dw2JkakR)
 
 Business Intelligence
-https://lnkd.in/dUAM2FFz
-https://lnkd.in/dY2UKU8G
-https://lnkd.in/dbXRNSyE
+[Here](https://lnkd.in/dUAM2FFz)
+[Here](https://lnkd.in/dY2UKU8G)
+[Here](https://lnkd.in/dbXRNSyE)
 
 CCNA Presenations
-https://lnkd.in/dqjxUai5
+[Here](https://lnkd.in/dqjxUai5)
 
  MEAN Stack
-https://lnkd.in/dsay4FpP
+[Here](https://lnkd.in/dsay4FpP)
 
 Full-stack .Net
-https://lnkd.in/dEestuJZ
-https://lnkd.in/dTB5wzDv
+[Here](https://lnkd.in/dEestuJZ)
+[Here](https://lnkd.in/dTB5wzDv)
 
 Cybersecurity NTI
-https://lnkd.in/dZ8x29Sy
+[Here](https://lnkd.in/dZ8x29Sy)
 
 Open-Source Development
-https://lnkd.in/dgjY5hjC
-https://lnkd.in/dx2XEQF5
-https://lnkd.in/d4-mvtfz
+[Here](https://lnkd.in/dgjY5hjC)
+[Here](https://lnkd.in/dx2XEQF5)
+[Here](https://lnkd.in/d4-mvtfz)
 
 Cloud Technologies
-https://lnkd.in/dUN6xqa6
+[Here](https://lnkd.in/dUN6xqa6)
 
 System Administration
-https://lnkd.in/dpQSfQpD
-Slides : https://lnkd.in/d6wZvWxZ
-Videos: https://lnkd.in/d_SsWR4j
-Linux: https://lnkd.in/d37p2WZv
+[Here](https://lnkd.in/dpQSfQpD)
+(Slides : https://lnkd.in/d6wZvWxZ)
+(Videos: https://lnkd.in/d_SsWR4j)
+(Linux: https://lnkd.in/d37p2WZv)
 
 Systems Development
-https://lnkd.in/dxBCvd3A
+[Here](https://lnkd.in/dxBCvd3A)
 
 Devops
-https://lnkd.in/dScxg5K3
-https://lnkd.in/dXsSrm2i
-https://lnkd.in/d8BJ42sh
+[Here](https://lnkd.in/dScxg5K3)
+[Here](https://lnkd.in/dXsSrm2i)
+[Here](https://lnkd.in/d8BJ42sh)
 
 Software Development
-https://lnkd.in/dU9wcZxn
+[Here](https://lnkd.in/dU9wcZxn)
 
 Industrial Automation
-https://lnkd.in/dwXU58-t
+[Here](https://lnkd.in/dwXU58-t)
 
 -- ITI Books
-https://lnkd.in/dAWTgqVV
-https://lnkd.in/dd6vajM5
+[Here](https://lnkd.in/dAWTgqVV)
+[Here](https://lnkd.in/dd6vajM5)
 
 -- Many courses in different tracks
-https://lnkd.in/dhrN7pYf
-https://lnkd.in/dFet3-vM
-https://lnkd.in/dMtM74Gi
+[Here](https://lnkd.in/dhrN7pYf)
+[Here](https://lnkd.in/dFet3-vM)
+[Here](https://lnkd.in/dMtM74Gi)
 
 Trainings:
-https://lnkd.in/eQBBQZYc        DHS training
-https://lnkd.in/eTUQS4Vj        FedVTE Training
-https://www.cyberaces.org/      SANS Cyberaces Training
-https://lnkd.in/era9pKjP        COMPTIA (networking, cloud and cyber)
-https://www.cybrary.it/     Cybrary IT
-https://lnkd.in/ezd5Z47D        Cybersecurity Basics
-https://lnkd.in/eynvhaZN        Cyber Readiness Institute
-https://lnkd.in/eH9zxzpr        NICCS Education and Training Catalog
-https://lnkd.in/e2GuNfp5        CISA
-https://www.fortinet.com        Fortinet
-HackXpert                       Free labs and training
-TryHackMe                       Hands-on exercises and labs
-CyberSecLabs                        High quality training labs
-Cybrary                     Videos, labs, and practice exams
-LetsDefend                      Blue team training platform
-Root Me                     Over 400 cybersecurity challenges
-RangeForce                      Interactive and hands-on platform
-Certified Secure                        Loads of different challenges
-Vuln Machines                       Real world scenarios to practice
-Try2Hack                        Play a game based on the real attacks
-TCM Security                        Entry level courses for cybersecurity
-EchoCTF                     Train your offensive and defensive skills
-Hack The Box                        Online cybersecurity training platform
-Vuln Hub                        Material for practical hands-on experience
-OverTheWire                     Learn security concepts through challenges
-PentesterLab                        Learn web-application penetration testing
-PortSwigger Web Security Academy    Extensive learning material
+[DHS training](https://lnkd.in/eQBBQZYc)        
+[FedVTE Training](https://lnkd.in/eTUQS4Vj)        
+[SANS Cyberaces Training](https://www.cyberaces.org/)      
+[COMPTIA (networking, cloud and cyber)](https://lnkd.in/era9pKjP)        
+[Cybrary IT](https://www.cybrary.it/)     
+[Cybersecurity Basics](https://lnkd.in/ezd5Z47D)        
+[Cyber Readiness Institute](https://lnkd.in/eynvhaZN)        
+[NICCS Education and Training Catalog](https://lnkd.in/eH9zxzpr)        
+[CISA](https://lnkd.in/e2GuNfp5)        
+[Fortinet](https://www.fortinet.com)        
+[HackXpert](Free labs and training)
+[TryHackMe](Hands-on exercises and labs)
+[CyberSecLabs](High quality training labs)
+[Cybrary](Videos, labs, and practice exams)
+[LetsDefend](Blue team training platform)
+[Root Me](Over 400 cybersecurity challenges)
+[RangeForce](Interactive and hands-on platform)
+[Certified Secure](Loads of different challenges)
+[Vuln Machines](Real world scenarios to practice)
+[Try2Hack](Play a game based on the real attacks)
+[TCM Security](Entry level courses for cybersecurity)
+[EchoCTF](Train your offensive and defensive skills)
+[Hack The Box](Online cybersecurity training platform)
+[Vuln Hub](Material for practical hands-on experience)
+[OverTheWire](Learn security concepts through challenges)
+[PentesterLab](Learn web-application penetration testing)
+[PortSwigger Web Security Academy](Extensive learning material)
 Coursera
 edX
 Khan Academy
@@ -463,30 +391,30 @@ Siemplify
 Netscout
 Pulse Secure
 Gigamon
-‏https://remoteok.com/      mote OK
-‏https://lnkd.in/d4-eZVfF       Just Remote
-‏https://angel.co/jobs/home     AngelList Talent
-‏https://lnkd.in/dN4ezCw6       We Work Remotely
-‏https://hired.com/     Hired
-‏https://lnkd.in/dWSZYxu8       Flex Jobs
-‏https://www.upwork.com/        Upwork
-‏https://jobspresso.co/     Job Spresso
-‏https://dailyremote.com/       Daily Remote
-‏https://remoteleaf.com/        Remote Leaf
-‏https://lnkd.in/dRee6NtH       Showwcase
-‏https://jsremotely.com/        JS Remotely
-‏https://lnkd.in/dmPG6b62       LinkedIn
-‏https://designremotely.co/     Design Remotely
-‏Turing.com     Turing
-‏RemoteMore.com     Remote More
-‏https://remoteplatz.com        Remote Platz
-‏Toptal.com     Toptal
-‏Netguru.com        Netguru
-‏https://lnkd.in/dsrsnhm8       EPAME Anywhere
-‏Andela.com     Andela
-‏vanhack.com        Vanhack
-‏talent.io      Talent IO
-https://arc.dev     Arc
+[mote OK](‏https://remoteok.com/)      
+[Just Remote](‏https://lnkd.in/d4-eZVfF)       
+[AngelList Talent](‏https://angel.co/jobs/home)     
+[We Work Remotely](‏https://lnkd.in/dN4ezCw6)       
+[Hired](‏https://hired.com/)     
+[Flex Jobs](‏https://lnkd.in/dWSZYxu8)       
+[Upwork](‏https://www.upwork.com/)        
+[Job Spresso](‏https://jobspresso.co/)     
+[Daily Remote](‏https://dailyremote.com/)       
+[Remote Leaf](‏https://remoteleaf.com/)        
+[Showwcase](‏https://lnkd.in/dRee6NtH)       
+[JS Remotely](‏https://jsremotely.com/)        
+[LinkedIn](‏https://lnkd.in/dmPG6b62)       
+[Design Remotely](‏https://designremotely.co/)     
+[‏Turing.com](Turing)
+[‏RemoteMore.com](Remote More)
+[Remote Platz](‏https://remoteplatz.com)        
+[‏Toptal.com](Toptal)
+[‏Netguru.com](Netguru)
+[EPAME Anywhere](‏https://lnkd.in/dsrsnhm8)       
+[‏Andela.com](Andela)
+[‏vanhack.com](Vanhack)
+[‏talent.io](Talent IO)
+[Arc](https://arc.dev)     
 Linkedin
 Indeed
 Naukri
@@ -498,37 +426,37 @@ GM4JH
 Personalbrandingblog
 Jibberjobber ‏and Sure Wuzzuf
 
-https://lnkd.in/g9enrpDt    Nicole Enesse
-https://lnkd.in/ghpkspKq    NetworkChuck
-https://lnkd.in/gH9a3ikn    Grant Collins
-https://lnkd.in/gEwiEUvj    Gerald Auger
-https://lnkd.in/gcqarGYd    John Hammond
-https://lnkd.in/gqbagVWj    The Cyber Mentor
-https://lnkd.in/gbJ9qk4J    The PC Security Channel
-https://lnkd.in/g59F-S9Z    UnixGuy
+[Nicole Enesse](https://lnkd.in/g9enrpDt)    
+[NetworkChuck](https://lnkd.in/ghpkspKq)    
+[Grant Collins](https://lnkd.in/gH9a3ikn)    
+[Gerald Auger](https://lnkd.in/gEwiEUvj)    
+[John Hammond](https://lnkd.in/gcqarGYd)    
+[The Cyber Mentor](https://lnkd.in/gqbagVWj)    
+[The PC Security Channel](https://lnkd.in/gbJ9qk4J)    
+[UnixGuy](https://lnkd.in/g59F-S9Z)    
 
 
 OSINT:
-www.numlookup.com/          NumLookup - Free reverse phone lookup
+[NumLookup - Free reverse phone lookup](www.numlookup.com/)          
 spydialer.com/          SpyDialer - Free Reverse Lookup Search
-www.whitepages.com/         WhitePages - Find people, contact info & background checks
-https://lnkd.in/dfUVjKWC            National Cellular Directory - Begin your comprehensive people search now
-www.phonevalidator.com/         Phone Validator - Is it a cell phone, a landline, or a fake one?
+[WhitePages - Find people, contact info & background checks](www.whitepages.com/)         
+[National Cellular Directory - Begin your comprehensive people search now](https://lnkd.in/dfUVjKWC)            
+[Phone Validator - Is it a cell phone, a landline, or a fake one?](www.phonevalidator.com/)         
 freecarrierlookup.com/          Free Carrier Lookup - Enter a phone number and we'll return the carrier name
-rocketreach.co          RocketReach - Your first-degree connection to any professional
-sync.me         Sync Me - Find out who called
-www.emobiletracker.com          EmobileTracker - Track Mobile Owner Name, Location, and Mobile Service Provider 
-https://lnkd.in/dGGfjV-y            Reverse Phone Lookup - Find Out The Owner Of A Phone Number 
-https://lnkd.in/d8rvhtuF            ThatsThem - Reverse phone lookup
-www.thisnumber.com                  This Number - International Phone Directories
-www.usphonebook.com/            Usphonebook - Free Reverse Phone Number Lookup
-www.truepeoplesearch.com/           True People Search - Get current address, cell phone number, email address, relatives, friends, and a lot more
-www.tellows.com/            Tellows - Who is calling? The phone number reverse search
+[rocketreach.co](RocketReach - Your first-degree connection to any professional)
+[sync.me](Sync Me - Find out who called)
+[EmobileTracker - Track Mobile Owner Name, Location, and Mobile Service Provider ](www.emobiletracker.com)          
+[Reverse Phone Lookup - Find Out The Owner Of A Phone Number ](https://lnkd.in/dGGfjV-y)            
+[ThatsThem - Reverse phone lookup](https://lnkd.in/d8rvhtuF)            
+[This Number - International Phone Directories](www.thisnumber.com)                  
+[Usphonebook - Free Reverse Phone Number Lookup](www.usphonebook.com/)            
+[True People Search - Get current address, cell phone number, email address, relatives, friends, and a lot more](www.truepeoplesearch.com/)           
+[Tellows - Who is calling? The phone number reverse search](www.tellows.com/)            
 synapsint.com/          SynapsInt - The unified OSINT research 
 api.c99.nl/         C99.nl - Over 57 quality API's and growing  
-https://lnkd.in/eCH2kBRC    This dude was recommended to me by someone much better than me: 
-https://lnkd.in/eHP_GpWm    Currently using this tool myself for tracking Russian military movement in my spare time. It an awesome forensic magnifier:
-https://fotoforensics.com/  Another forensics tool that can help determine authenticity of an image, including scraping metadata:
+[This dude was recommended to me by someone much better than me: ](https://lnkd.in/eCH2kBRC)    
+[Currently using this tool myself for tracking Russian military movement in my spare time. It an awesome forensic magnifier:](https://lnkd.in/eHP_GpWm)    
+[Another forensics tool that can help determine authenticity of an image, including scraping metadata:](https://fotoforensics.com/)  
 Lastly, you can just use the ol’classic such as the big 3 reverse image searchers [Google, Bing, Yandex]. Each offer its own pros and cons so it’s worth trying all 3 if you're ever stuck.
 
 API:
@@ -557,16 +485,16 @@ Videos: The XSS Rat, API Testing And Securing Guide
 Website: APIsecurity IO, API Security Articles
 
 PowerShell:
-https://lnkd.in/ezsh8qE6     PowerShell tutorial for beginners
-https://lnkd.in/eDCN-av6     Learn PowerShell in a month of lunches
-https://lnkd.in/eAs-zExH     PowerShell.org’s YouTube
-https://lnkd.in/e_4U6Da3     The DevOps collective inc.
-https://lnkd.in/e5eQz2Su     All things PowerShell by Shane Young
-https://lnkd.in/eKJDJxC2     PowerShell for beginners
-https://lnkd.in/eyvcdJgJ     Coursesit
-https://lnkd.in/eYsVz48K     Using Powershell in Cybersecurity
-https://lnkd.in/eR8J6YHN     PowerShell Masterclass Fundamentals
-https://lnkd.in/ekSP6zch     Essential Tools for Windows System Administrators
+[PowerShell tutorial for beginners](https://lnkd.in/ezsh8qE6)     
+[Learn PowerShell in a month of lunches](https://lnkd.in/eDCN-av6)     
+[PowerShell.org’s YouTube](https://lnkd.in/eAs-zExH)     
+[The DevOps collective inc.](https://lnkd.in/e_4U6Da3)     
+[All things PowerShell by Shane Young](https://lnkd.in/e5eQz2Su)     
+[PowerShell for beginners](https://lnkd.in/eKJDJxC2)     
+[Coursesit](https://lnkd.in/eyvcdJgJ)     
+[Using Powershell in Cybersecurity](https://lnkd.in/eYsVz48K)     
+[PowerShell Masterclass Fundamentals](https://lnkd.in/eR8J6YHN)     
+[Essential Tools for Windows System Administrators](https://lnkd.in/ekSP6zch)     
 
 
 Code Search: 
@@ -574,23 +502,23 @@ cs.github.com/      GitHub Code Search - Search globally across all of GitHub, o
 grep.app/       grep.app - Search across a half million git repos
 publicwww.com/      publicwww.com - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
 searchcode.com/     SearchCode - Search 75 billion lines of code from 40 million projects.
-www.nerdydata.com/      NerdyData - Find companies based on their website's tech stack or code
-codefinder.org/         RepoSearch - Source code search engine that helps you find implementation details, example usages, or just analyze code        
+[NerdyData - Find companies based on their website's tech stack or code](www.nerdydata.com/)      
+codefinder.org/         RepoSearch - Source code search engine that helps you find implementation details, example usages, or just analyze code 
 about.sourcegraph.com/      SourceGraph - Understand and search across your entire codebase
-https://hotexamples.com/        HotExamples - Search code examples from over 1 million projects
+[HotExamples - Search code examples from over 1 million projects](https://hotexamples.com/)        
 
 SOC:
-https://lnkd.in/d_dZNduf        Splunk Courses (FREE)
-https://lnkd.in/dmmkZ-tH        Fortinet Courses (FREE)
-https://lnkd.in/dcfmSPEJ        AttackIQ Mitre Att&ck Courses (FREE)
-https://lnkd.in/dbCn3k4n        Microsoft SC-200 Course (FREE)
-https://lnkd.in/dTCaCf-u        Awesome OSINT Courses (FREE)
-https://lnkd.in/dhjwx_5h        CSILinux Forensic Trainings (FREE)
-https://cybrary.it              Cybrary Trainings (FREE)
+[Splunk Courses (FREE)](https://lnkd.in/d_dZNduf)        
+[Fortinet Courses (FREE)](https://lnkd.in/dmmkZ-tH)        
+[AttackIQ Mitre Att&ck Courses (FREE)](https://lnkd.in/dcfmSPEJ)        
+[Microsoft SC-200 Course (FREE)](https://lnkd.in/dbCn3k4n)        
+[Awesome OSINT Courses (FREE)](https://lnkd.in/dTCaCf-u)        
+[CSILinux Forensic Trainings (FREE)](https://lnkd.in/dhjwx_5h)        
+[Cybrary Trainings (FREE)](https://cybrary.it)              
 
 
 SQL:
-https://buff.ly/3rB3yMr     SQLFlow
+[SQLFlow](https://buff.ly/3rB3yMr)     
 SQLZOO
 SQLBolt
 LinuxJedi
@@ -618,99 +546,99 @@ MySQL For Beginners, Programming With Mosh
 
 Forensics:
 Chrome->
-chrome://conflicts      [Lists every module loaded in the browser, along with any rendered processes, registered to load later, and modules that are now in use.]
-chrome://device-log     [Gives details on the devices such as Bluetooth and USB devices.]
-chrome://extensions-internals       [The extension manager, which lists every extension that has been installed and all of its parameters.]
-chrome://indexeddb-internals        [Usage details by site]
-chrome://media-engagement       [Lists Origin, Sessions, Sessions with playback, Last Playback etc]
-chrome://net-export     [Network log capture]
-chrome://usb-internals      [Currently connected USB Devices List]
-chrome://dino               Finally, try this out after you have collected enough information :) 
+[chrome://conflicts]([Lists every module loaded in the browser, along with any rendered processes, registered to load later, and modules that are now in use.])
+[chrome://device-log]([Gives details on the devices such as Bluetooth and USB devices.])
+[chrome://extensions-internals]([The extension manager, which lists every extension that has been installed and all of its parameters.])
+[chrome://indexeddb-internals]([Usage details by site])
+[chrome://media-engagement]([Lists Origin, Sessions, Sessions with playback, Last Playback etc])
+[chrome://net-export]([Network log capture])
+[chrome://usb-internals]([Currently connected USB Devices List])
+[chrome://dino](Finally, try this out after you have collected enough information :) )
 
 
 IP & Domain search:
-https://www.greynoise.io/       GreyNoise 
-https://lnkd.in/gQm7bWuM        VirusTotal 
-https://lnkd.in/g9wzPfq3        Whois 
-https://www.abuseipdb.com/      AbuseIPDB 
-https://lnkd.in/g6GmxGcK        IpAddress 
-https://search.arin.net/        ARIN 
-https://search.censys.io/       Censys 
-https://intelx.io/      Intelligence X 
-https://www.shodan.io/      Shodan 
-https://lnkd.in/gFnSPmBF        ZoomEye 
-https://www.onyphe.io/      ONYPHYE 
-https://lnkd.in/g3TxK5rB        What is My IP 
-https://lnkd.in/gzma7EG6        BinaryEdge 
-https://lnkd.in/gx6_kN8b        URL Scan 
-https://lnkd.in/gcif6Ujc        Abuse CH 
+[GreyNoise ](https://www.greynoise.io/)       
+[VirusTotal ](https://lnkd.in/gQm7bWuM)        
+[Whois ](https://lnkd.in/g9wzPfq3)        
+[AbuseIPDB ](https://www.abuseipdb.com/)      
+[IpAddress ](https://lnkd.in/g6GmxGcK)        
+[ARIN ](https://search.arin.net/)        
+[Censys ](https://search.censys.io/)       
+[Intelligence X ](https://intelx.io/)      
+[Shodan ](https://www.shodan.io/)      
+[ZoomEye ](https://lnkd.in/gFnSPmBF)        
+[ONYPHYE ](https://www.onyphe.io/)      
+[What is My IP ](https://lnkd.in/g3TxK5rB)        
+[BinaryEdge ](https://lnkd.in/gzma7EG6)        
+[URL Scan ](https://lnkd.in/gx6_kN8b)        
+[Abuse CH ](https://lnkd.in/gcif6Ujc)        
 
 
 ISO 27001:
 𝗩𝗶𝗱𝗲𝗼 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴:
-https://lnkd.in/gfJMfcwC       ISO 27001 Overview
-https://lnkd.in/gTjY42YX       How to Prepare for a Certification Audit
+[ISO 27001 Overview](https://lnkd.in/gfJMfcwC)       
+[How to Prepare for a Certification Audit](https://lnkd.in/gTjY42YX)       
 How to Maintain a Your Program Between Audits
-https://lnkd.in/gQmqTK8h       Full 22 Video Playlist Covering the ISO 27001 Framework
-https://lnkd.in/gfFMmAhC       ISO 27001 Overview - Deeper Dive
-https://lnkd.in/eTwXmN7        Our Company's ISO 27001 Certification Journey
-https://lnkd.in/gxc7jjW9       ISO 27701 Overview for Privacy and GDPR
+[Full 22 Video Playlist Covering the ISO 27001 Framework](https://lnkd.in/gQmqTK8h)       
+[ISO 27001 Overview - Deeper Dive](https://lnkd.in/gfFMmAhC)       
+[Our Company's ISO 27001 Certification Journey](https://lnkd.in/eTwXmN7)        
+[ISO 27701 Overview for Privacy and GDPR](https://lnkd.in/gxc7jjW9)       
 𝗚𝘂𝗶𝗱𝗲𝘀 𝗮𝗻𝗱 𝗪𝗵𝗶𝘁𝗲𝗽𝗮𝗽𝗲𝗿𝘀:
-https://lnkd.in/geMbpDaJ       The Business Case for ISO 27001
-https://lnkd.in/gWWBZY8N       Understanding the ISO 27001 Framework
-https://lnkd.in/gBE9D7X4       Step-by-Step Overview of the ISO 27001 Certification Process
-https://lnkd.in/gxA_MqTK       Blog posts on ISO 27001
+[The Business Case for ISO 27001](https://lnkd.in/geMbpDaJ)       
+[Understanding the ISO 27001 Framework](https://lnkd.in/gWWBZY8N)       
+[Step-by-Step Overview of the ISO 27001 Certification Process](https://lnkd.in/gBE9D7X4)       
+[Blog posts on ISO 27001](https://lnkd.in/gxA_MqTK)       
 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲𝘀:
-https://lnkd.in/gMuamXnQ        ISO 27001 GRC tools - Including a Free Version
+[ISO 27001 GRC tools - Including a Free Version](https://lnkd.in/gMuamXnQ)        
 
 HashCracking:
-https://crackstation.net/       CrackStation- -Uses massive pre-computed lookup tables to crack password hashes.
-https://lnkd.in/gqDwjvbJ        CeWL- -Generates custom wordlists by spidering a target's website and collecting unique words.
-https://lnkd.in/gtmJkMHp        JPassword Recovery Tool- -Open source password recovery tool for Windows
-https://lnkd.in/guwsc_GQ        Hashcat- -Fast hash cracking utility with support for most known hashes as well as OpenCL and CUDA acceleration.
-https://lnkd.in/gdikGzf8        John the Ripper Jumbo- -Community-enhanced, "jumbo" version of John the Ripper
-https://lnkd.in/ggq_B9_a        John the Ripper- -Open-Source password security auditing and password recovery tool available for different operating systems. 
-https://lnkd.in/gkQy2rCV        JWT Cracker- -Simple HS256 JWT token brute force cracker
-https://lnkd.in/gfp8RTGh        Mentalist- -Unique GUI based password wordlist generator compatible with CeWL and John the Ripper
+[CrackStation- -Uses massive pre-computed lookup tables to crack password hashes.](https://crackstation.net/)       
+[CeWL- -Generates custom wordlists by spidering a target's website and collecting unique words.](https://lnkd.in/gqDwjvbJ)        
+[JPassword Recovery Tool- -Open source password recovery tool for Windows](https://lnkd.in/gtmJkMHp)        
+[Hashcat- -Fast hash cracking utility with support for most known hashes as well as OpenCL and CUDA acceleration.](https://lnkd.in/guwsc_GQ)        
+[John the Ripper Jumbo- -Community-enhanced, "jumbo" version of John the Ripper](https://lnkd.in/gdikGzf8)        
+[John the Ripper- -Open-Source password security auditing and password recovery tool available for different operating systems. ](https://lnkd.in/ggq_B9_a)        
+[JWT Cracker- -Simple HS256 JWT token brute force cracker](https://lnkd.in/gkQy2rCV)        
+[Mentalist- -Unique GUI based password wordlist generator compatible with CeWL and John the Ripper](https://lnkd.in/gfp8RTGh)        
 
 Pentest Tools:
-https://lnkd.in/ei7R8gsx    See Rajneesh G.’s post about some of the Practical web Pentesting tools. 
-https://sectools.org/   You know the Nmap project? Well they have a list of the top 125 Network Security Tools: 
-https://lnkd.in/ezNgTvfF    ✴️ Julien Maury shared a Top 10 on eSecurity Planet:    
-https://lnkd.in/eHmusQYg    ✴️And SANS Technology Institute has a list of tools including plenty of pentest tools:  
-https://lnkd.in/eA988c_k    Finally arch3rPro has an amazing amount of tools listed on github:  
+[See Rajneesh G.’s post about some of the Practical web Pentesting tools. ](https://lnkd.in/ei7R8gsx)    
+[You know the Nmap project? Well they have a list of the top 125 Network Security Tools: ](https://sectools.org/)   
+[Julien Maury shared a Top 10 on eSecurity Planet:    ](https://lnkd.in/ezNgTvfF)     
+[And SANS Technology Institute has a list of tools including plenty of pentest tools:  ](https://lnkd.in/eHmusQYg)    
+[Finally arch3rPro has an amazing amount of tools listed on github:  ](https://lnkd.in/eA988c_k)    
 
 Search Engines:
-Dehashed            View leaked credentials
-SecurityTrails          Extensive DNS data
-DorkSearch          Really fast Google dorking
-ExploitDB           Archive of various exploits
-ZoomEye         Gather information about targets
-Pulsedive           Search for threat intelligence
-GrayHatWarefare         Search public S3 buckets
-PolySwarm           Scan files and URLs for threats
-Fofa            Search for various threat intelligence
-LeakIX          Search publicly indexed information
-DNSDumpster         Search for DNS records quickly
-FullHunt            Search and discovery attack surfaces
-AlienVault          Extensive threat intelligence feed
-ONYPHE          Collects cyber-threat intelligence data
-Grep App            Search across a half million git repos
-URL Scan            Free service to scan and analyse websites
-Vulners         Search vulnerabilities in a large database
-WayBackMachine          View content from deleted websites
-Shodan          Search for devices connected to the internet
-Netlas          Search and monitor internet connected assets
-CRT sh          Search for certs that have been logged by CT
-Wigle           Database of wireless networks, with statistics
-PublicWWW           Marketing and affiliate marketing research
-Binary Edge         Scans the internet for threat intelligence
-GreyNoise           Search for devices connected to the internet
-Hunter          Search for email addresses belonging to a website
-Censys          Assessing attack surface for internet connected devices
-IntelligenceX           Search Tor, I2P, data leaks, domains, and emails
-Packet Storm Security           Browse latest vulnerabilities and exploits
-SearchCode          Search 75 billion lines of code from 40 million projects
+[Dehashed](View leaked credentials)
+[SecurityTrails](Extensive DNS data)
+[DorkSearch](Really fast Google dorking)
+[ExploitDB](Archive of various exploits)
+[ZoomEye](Gather information about targets)
+[Pulsedive](Search for threat intelligence)
+[GrayHatWarefare](Search public S3 buckets)
+[PolySwarm](Scan files and URLs for threats)
+[Fofa](Search for various threat intelligence)
+[LeakIX](Search publicly indexed information)
+[DNSDumpster](Search for DNS records quickly)
+[FullHunt](Search and discovery attack surfaces)
+[AlienVault](Extensive threat intelligence feed)
+[ONYPHE](Collects cyber-threat intelligence data)
+[Grep App](Search across a half million git repos)
+[URL Scan](Free service to scan and analyse websites)
+[Vulners](Search vulnerabilities in a large database)
+[WayBackMachine](View content from deleted websites)
+[Shodan](Search for devices connected to the internet)
+[Netlas](Search and monitor internet connected assets)
+[CRT sh](Search for certs that have been logged by CT)
+[Wigle](Database of wireless networks, with statistics)
+[PublicWWW](Marketing and affiliate marketing research)
+[Binary Edge](Scans the internet for threat intelligence)
+[GreyNoise](Search for devices connected to the internet)
+[Hunter](Search for email addresses belonging to a website)
+[Censys](Assessing attack surface for internet connected devices)
+[IntelligenceX](Search Tor, I2P, data leaks, domains, and emails)
+[Packet Storm Security](Browse latest vulnerabilities and exploits)
+[SearchCode](Search 75 billion lines of code from 40 million projects)
 
 Interview Prep:
 Ambitionbox
@@ -751,47 +679,48 @@ Excel-Jet
 
 
 Cloud:
-https://github.com/aquasecurity/cloud-security-remediation-guides   
-https://lnkd.in/eBn8AJhp    Get familiar with Cloud Security fundamentals with Learn to cloud by Gwyneth Peña-Siguenza and Day Johnson 
-https://hackingthe.cloud/   Hacking the cloud by Nick Frichette an encyclopedia of the techniques that offensive security professionals can use against cloud environments.
-https://lnkd.in/e5U-KxYj    Cloud Security - Attacks by Joas A Santos 
-https://lnkd.in/e5n2CZ2f    Practice with this free lab from Pentester Academy
+[Here](https://github.com/aquasecurity/cloud-security-remediation-guides)   
+[Get familiar with Cloud Security fundamentals with Learn to cloud by Gwyneth Peña-Siguenza and Day Johnson ](https://lnkd.in/eBn8AJhp)    
+[Hacking the cloud by Nick Frichette an encyclopedia of the techniques that offensive security professionals can use against cloud environments.](https://hackingthe.cloud/)   
+[Cloud Security - Attacks by Joas A Santos ](https://lnkd.in/e5U-KxYj)    
+[Practice with this free lab from Pentester Academy](https://lnkd.in/e5n2CZ2f)    
 
 
 Penetration Testing:
 𝐂𝐥𝐨𝐮𝐝𝐆𝐨𝐚𝐭
-https://lnkd.in/gKkj_4Ub 
+[Here](https://lnkd.in/gKkj_4Ub) 
 Hands-on CTF labs by Rhino Security Labs, Inc teaching Lambda, EC2, S3, and more
 Many writeups on each scenario do not be afraid to use them
-CloudGoat video writeups can be found here: https://lnkd.in/gJMZbTKd
+(CloudGoat video writeups can be found here: https://lnkd.in/gJMZbTKd)
 𝐌𝐢𝐬𝐜
 It's important to learn about AWS security from the defending side as well:
 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐭𝐲 𝐄𝐱𝐚𝐦 𝐆𝐮𝐢𝐝𝐞
-https://lnkd.in/gADYSztW
-Complete notes can be found here: https://lnkd.in/g69ZZTAB 
+[Here](https://lnkd.in/gADYSztW)
+(Complete notes can be found here: https://lnkd.in/g69ZZTAB) 
 Goes over AWS from a security engineer point of view
 Talks about data encryption, correct configurations of the cloud, etc.
 𝐂𝐮𝐫𝐚𝐭𝐞𝐝 𝐥𝐢𝐬𝐭 𝐨𝐟 𝐀𝐖𝐒 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐕𝐢𝐝𝐞𝐨𝐬
-https://lnkd.in/g9fbwFBC
-I highly recommend checking out as many videos as possible in this playlist, especially https://lnkd.in/g-NDnxua and https://lnkd.in/gzJGjsjn
+[Here](https://lnkd.in/g9fbwFBC)
+(I highly recommend checking out as many videos as possible in this playlist, especially https://lnkd.in/g-NDnxua) 
+https://lnkd.in/gzJGjsjn)
 𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐀𝐖𝐒 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐛𝐲 Benjamin Caudill
-https://lnkd.in/gEWyiuvN
-Complete notes can be found here: https://lnkd.in/gXRxRAmz
+[Here](https://lnkd.in/gEWyiuvN)
+(Complete notes can be found here: https://lnkd.in/gXRxRAmz)
 In-depth about EC2, S3, RDS, Lambda, etc., as well as more obscure services 
 Talks about bypassing techniques, GuardDuty, CloudTrail, etc. 
 Goes hand in hand with the CloudGoat scenarios
 
 Exploitation Tools:
-https://lnkd.in/g3rri3By    Browser Exploitation Framework (BeEF): A penetration testing tool that focuses on the web browser.
-https://lnkd.in/gbwdQiTt    Commix: Open source penetration testing tool that automates the detection and exploitation of command injection vulnerabilities.
-https://lnkd.in/geBGmwZy    EyeWitness: Takes screenshots of websites provide some server header info, and identify default credentials
-https://lnkd.in/gS2yGWgV    FuzzDB: Open dictionary of fault injection patterns, predictable resource locations, and regex for matching server responses.
-https://lnkd.in/gcPXS-wX    IIS-Shortname-Scanner: Command line tool to exploit the Windows IIS tilde information disclosure vulnerability.
-https://lnkd.in/gbJTc_pv    Kadabra: Automatic LFI exploiter and scanner.
-https://lnkd.in/gYi5J5dk    Kadimus: LFI scan and exploit tool.
-https://lnkd.in/gZs9aPfh    LFISuite: Automatic tool able to scan and exploit Local File Inclusion vulnerabilities.
-https://lnkd.in/gugC5XpJ    NoSQLmap: Automate injection attacks and exploit default configuration weaknesses in NoSQL databases and web applications
-https://lnkd.in/g2MXJHEp    Wafw00f: Identifies and fingerprints Web Application Firewall (WAF) products.
+[Browser Exploitation Framework (BeEF): A penetration testing tool that focuses on the web browser.](https://lnkd.in/g3rri3By)    
+[Commix: Open source penetration testing tool that automates the detection and exploitation of command injection vulnerabilities.](https://lnkd.in/gbwdQiTt)    
+[EyeWitness: Takes screenshots of websites provide some server header info, and identify default credentials](https://lnkd.in/geBGmwZy)    
+[FuzzDB: Open dictionary of fault injection patterns, predictable resource locations, and regex for matching server responses.](https://lnkd.in/gS2yGWgV)    
+[IIS-Shortname-Scanner: Command line tool to exploit the Windows IIS tilde information disclosure vulnerability.](https://lnkd.in/gcPXS-wX)    
+[Kadabra: Automatic LFI exploiter and scanner.](https://lnkd.in/gbJTc_pv)    
+[Kadimus: LFI scan and exploit tool.](https://lnkd.in/gYi5J5dk)    
+[LFISuite: Automatic tool able to scan and exploit Local File Inclusion vulnerabilities.](https://lnkd.in/gZs9aPfh)    
+[NoSQLmap: Automate injection attacks and exploit default configuration weaknesses in NoSQL databases and web applications](https://lnkd.in/gugC5XpJ)    
+[Wafw00f: Identifies and fingerprints Web Application Firewall (WAF) products.](https://lnkd.in/g2MXJHEp)    
 
 # GoVanguard InfoSec Encyclopedia
 
