@@ -1288,6 +1288,7 @@ If you're new to InfoSec and are looking for a concentrated list of resources to
 
 
 #### Books
+* The Cuckoo's Egg
 * [recommended readings](http://dfir.org/?q=node/8)
 * A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security
 * A Short Course on Computer Viruses
